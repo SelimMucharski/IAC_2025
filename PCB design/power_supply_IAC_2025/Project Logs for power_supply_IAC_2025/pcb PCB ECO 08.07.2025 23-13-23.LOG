@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J3-4
+Added Pin To Net: NetName=ADC_P6 Pin=J3-4

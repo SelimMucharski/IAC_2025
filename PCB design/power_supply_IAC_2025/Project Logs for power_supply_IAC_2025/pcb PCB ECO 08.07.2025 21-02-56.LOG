@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Rpi_power_supply Member=Component J1 USB1125-GF-B
+Added Member To Class: ClassName=wheatstone_bridge Member=Component J6 ADC
+Added Member To Class: ClassName=wheatstone_bridge Member=Component J7 1729128
+Added Member To Class: ClassName=wheatstone_bridge Member=Component R1
+Added Member To Class: ClassName=wheatstone_bridge Member=Component R2 R3
+Added Member To Class: ClassName=wheatstone_bridge Member=Component R3 Rx

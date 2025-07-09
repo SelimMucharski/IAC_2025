@@ -1,0 +1,194 @@
+Added Pin To Net: NetName=ADC_N1 Pin=J2-9
+Added Pin To Net: NetName=ADC_N1 Pin=R2_bridge1-1
+Added Pin To Net: NetName=ADC_N1 Pin=R3_bridge1-2
+Added Net: Name=ADC_N1
+Added Pin To Net: NetName=ADC_N2 Pin=J2-5
+Added Pin To Net: NetName=ADC_N2 Pin=R2_bridge2-1
+Added Pin To Net: NetName=ADC_N2 Pin=R3_bridge2-2
+Added Net: Name=ADC_N2
+Added Pin To Net: NetName=ADC_N3 Pin=J2-1
+Added Pin To Net: NetName=ADC_N3 Pin=R2_bridge3-1
+Added Pin To Net: NetName=ADC_N3 Pin=R3_bridge3-2
+Added Net: Name=ADC_N3
+Added Pin To Net: NetName=ADC_N4 Pin=J3-9
+Added Pin To Net: NetName=ADC_N4 Pin=R2_bridge4-1
+Added Pin To Net: NetName=ADC_N4 Pin=R3_bridge4-2
+Added Net: Name=ADC_N4
+Added Pin To Net: NetName=ADC_N5 Pin=J3-5
+Added Pin To Net: NetName=ADC_N5 Pin=R2_bridge5-1
+Added Pin To Net: NetName=ADC_N5 Pin=R3_bridge5-2
+Added Net: Name=ADC_N5
+Added Pin To Net: NetName=ADC_N6 Pin=J3-1
+Added Pin To Net: NetName=ADC_N6 Pin=R2_bridge6-1
+Added Pin To Net: NetName=ADC_N6 Pin=R3_bridge6-2
+Added Net: Name=ADC_N6
+Added Pin To Net: NetName=ADC_N7 Pin=J4-9
+Added Pin To Net: NetName=ADC_N7 Pin=R2_bridge7-1
+Added Pin To Net: NetName=ADC_N7 Pin=R3_bridge7-2
+Added Net: Name=ADC_N7
+Added Pin To Net: NetName=ADC_N8 Pin=J4-5
+Added Pin To Net: NetName=ADC_N8 Pin=R2_bridge8-1
+Added Pin To Net: NetName=ADC_N8 Pin=R3_bridge8-2
+Added Net: Name=ADC_N8
+Added Pin To Net: NetName=ADC_N9 Pin=J4-1
+Added Pin To Net: NetName=ADC_N9 Pin=R2_bridge9-1
+Added Pin To Net: NetName=ADC_N9 Pin=R3_bridge9-2
+Added Net: Name=ADC_N9
+Added Pin To Net: NetName=ADC_N10 Pin=J5-9
+Added Pin To Net: NetName=ADC_N10 Pin=R2_bridge10-1
+Added Pin To Net: NetName=ADC_N10 Pin=R3_bridge10-2
+Added Net: Name=ADC_N10
+Added Pin To Net: NetName=ADC_N11 Pin=J5-5
+Added Pin To Net: NetName=ADC_N11 Pin=R2_bridge11-1
+Added Pin To Net: NetName=ADC_N11 Pin=R3_bridge11-2
+Added Net: Name=ADC_N11
+Added Pin To Net: NetName=ADC_N12 Pin=J5-1
+Added Pin To Net: NetName=ADC_N12 Pin=R2_bridge12-1
+Added Pin To Net: NetName=ADC_N12 Pin=R3_bridge12-2
+Added Net: Name=ADC_N12
+Added Pin To Net: NetName=ADC_N13 Pin=J6-9
+Added Pin To Net: NetName=ADC_N13 Pin=R2_bridge13-1
+Added Pin To Net: NetName=ADC_N13 Pin=R3_bridge13-2
+Added Net: Name=ADC_N13
+Added Pin To Net: NetName=ADC_N14 Pin=J6-5
+Added Pin To Net: NetName=ADC_N14 Pin=R2_bridge14-1
+Added Pin To Net: NetName=ADC_N14 Pin=R3_bridge14-2
+Added Net: Name=ADC_N14
+Added Pin To Net: NetName=ADC_N15 Pin=J6-1
+Added Pin To Net: NetName=ADC_N15 Pin=R2_bridge15-1
+Added Pin To Net: NetName=ADC_N15 Pin=R3_bridge15-2
+Added Net: Name=ADC_N15
+Added Pin To Net: NetName=ADC_N16 Pin=J7-9
+Added Pin To Net: NetName=ADC_N16 Pin=R2_bridge16-1
+Added Pin To Net: NetName=ADC_N16 Pin=R3_bridge16-2
+Added Net: Name=ADC_N16
+Added Pin To Net: NetName=ADC_N17 Pin=J7-5
+Added Pin To Net: NetName=ADC_N17 Pin=R2_bridge17-1
+Added Pin To Net: NetName=ADC_N17 Pin=R3_bridge17-2
+Added Net: Name=ADC_N17
+Added Pin To Net: NetName=ADC_N18 Pin=J7-1
+Added Pin To Net: NetName=ADC_N18 Pin=R2_bridge18-1
+Added Pin To Net: NetName=ADC_N18 Pin=R3_bridge18-2
+Added Net: Name=ADC_N18
+Added Pin To Net: NetName=ADC_N19 Pin=J8-9
+Added Pin To Net: NetName=ADC_N19 Pin=R2_bridge19-1
+Added Pin To Net: NetName=ADC_N19 Pin=R3_bridge19-2
+Added Net: Name=ADC_N19
+Added Pin To Net: NetName=ADC_N20 Pin=J8-5
+Added Pin To Net: NetName=ADC_N20 Pin=R2_bridge20-1
+Added Pin To Net: NetName=ADC_N20 Pin=R3_bridge20-2
+Added Net: Name=ADC_N20
+Added Pin To Net: NetName=ADC_N21 Pin=J8-1
+Added Pin To Net: NetName=ADC_N21 Pin=R2_bridge21-1
+Added Pin To Net: NetName=ADC_N21 Pin=R3_bridge21-2
+Added Net: Name=ADC_N21
+Added Pin To Net: NetName=ADC_N22 Pin=J9-9
+Added Pin To Net: NetName=ADC_N22 Pin=R2_bridge22-1
+Added Pin To Net: NetName=ADC_N22 Pin=R3_bridge22-2
+Added Net: Name=ADC_N22
+Added Pin To Net: NetName=ADC_N23 Pin=J9-5
+Added Pin To Net: NetName=ADC_N23 Pin=R2_bridge23-1
+Added Pin To Net: NetName=ADC_N23 Pin=R3_bridge23-2
+Added Net: Name=ADC_N23
+Added Pin To Net: NetName=ADC_N24 Pin=J9-1
+Added Pin To Net: NetName=ADC_N24 Pin=R2_bridge24-1
+Added Pin To Net: NetName=ADC_N24 Pin=R3_bridge24-2
+Added Net: Name=ADC_N24
+Added Pin To Net: NetName=ADC_P1 Pin=J2-10
+Added Pin To Net: NetName=ADC_P1 Pin=J2-12
+Added Pin To Net: NetName=ADC_P1 Pin=R1_bridge1-1
+Added Net: Name=ADC_P1
+Added Pin To Net: NetName=ADC_P2 Pin=J2-6
+Added Pin To Net: NetName=ADC_P2 Pin=J2-8
+Added Pin To Net: NetName=ADC_P2 Pin=R1_bridge2-1
+Added Net: Name=ADC_P2
+Added Pin To Net: NetName=ADC_P3 Pin=J2-2
+Added Pin To Net: NetName=ADC_P3 Pin=J2-4
+Added Pin To Net: NetName=ADC_P3 Pin=R1_bridge3-1
+Added Net: Name=ADC_P3
+Added Pin To Net: NetName=ADC_P4 Pin=J3-10
+Added Pin To Net: NetName=ADC_P4 Pin=J3-12
+Added Pin To Net: NetName=ADC_P4 Pin=R1_bridge4-1
+Added Net: Name=ADC_P4
+Added Pin To Net: NetName=ADC_P5 Pin=J3-6
+Added Pin To Net: NetName=ADC_P5 Pin=J3-8
+Added Pin To Net: NetName=ADC_P5 Pin=R1_bridge5-1
+Added Net: Name=ADC_P5
+Added Pin To Net: NetName=ADC_P6 Pin=J3-2
+Added Pin To Net: NetName=ADC_P6 Pin=R1_bridge6-1
+Added Net: Name=ADC_P6
+Added Pin To Net: NetName=ADC_P7 Pin=J4-10
+Added Pin To Net: NetName=ADC_P7 Pin=J4-12
+Added Pin To Net: NetName=ADC_P7 Pin=R1_bridge7-1
+Added Net: Name=ADC_P7
+Added Pin To Net: NetName=ADC_P8 Pin=J4-6
+Added Pin To Net: NetName=ADC_P8 Pin=J4-8
+Added Pin To Net: NetName=ADC_P8 Pin=R1_bridge8-1
+Added Net: Name=ADC_P8
+Added Pin To Net: NetName=ADC_P9 Pin=J4-2
+Added Pin To Net: NetName=ADC_P9 Pin=J4-4
+Added Pin To Net: NetName=ADC_P9 Pin=R1_bridge9-1
+Added Net: Name=ADC_P9
+Added Pin To Net: NetName=ADC_P10 Pin=J5-10
+Added Pin To Net: NetName=ADC_P10 Pin=J5-12
+Added Pin To Net: NetName=ADC_P10 Pin=R1_bridge10-1
+Added Net: Name=ADC_P10
+Added Pin To Net: NetName=ADC_P11 Pin=J5-6
+Added Pin To Net: NetName=ADC_P11 Pin=J5-8
+Added Pin To Net: NetName=ADC_P11 Pin=R1_bridge11-1
+Added Net: Name=ADC_P11
+Added Pin To Net: NetName=ADC_P12 Pin=J5-2
+Added Pin To Net: NetName=ADC_P12 Pin=J5-4
+Added Pin To Net: NetName=ADC_P12 Pin=R1_bridge12-1
+Added Net: Name=ADC_P12
+Added Pin To Net: NetName=ADC_P13 Pin=J6-10
+Added Pin To Net: NetName=ADC_P13 Pin=J6-12
+Added Pin To Net: NetName=ADC_P13 Pin=R1_bridge13-1
+Added Net: Name=ADC_P13
+Added Pin To Net: NetName=ADC_P14 Pin=J6-6
+Added Pin To Net: NetName=ADC_P14 Pin=J6-8
+Added Pin To Net: NetName=ADC_P14 Pin=R1_bridge14-1
+Added Net: Name=ADC_P14
+Added Pin To Net: NetName=ADC_P15 Pin=J6-2
+Added Pin To Net: NetName=ADC_P15 Pin=J6-4
+Added Pin To Net: NetName=ADC_P15 Pin=R1_bridge15-1
+Added Net: Name=ADC_P15
+Added Pin To Net: NetName=ADC_P16 Pin=J7-10
+Added Pin To Net: NetName=ADC_P16 Pin=J7-12
+Added Pin To Net: NetName=ADC_P16 Pin=R1_bridge16-1
+Added Net: Name=ADC_P16
+Added Pin To Net: NetName=ADC_P17 Pin=J7-6
+Added Pin To Net: NetName=ADC_P17 Pin=J7-8
+Added Pin To Net: NetName=ADC_P17 Pin=R1_bridge17-1
+Added Net: Name=ADC_P17
+Added Pin To Net: NetName=ADC_P18 Pin=J7-2
+Added Pin To Net: NetName=ADC_P18 Pin=J7-4
+Added Pin To Net: NetName=ADC_P18 Pin=R1_bridge18-1
+Added Net: Name=ADC_P18
+Added Pin To Net: NetName=ADC_P19 Pin=J8-10
+Added Pin To Net: NetName=ADC_P19 Pin=J8-12
+Added Pin To Net: NetName=ADC_P19 Pin=R1_bridge19-1
+Added Net: Name=ADC_P19
+Added Pin To Net: NetName=ADC_P20 Pin=J8-6
+Added Pin To Net: NetName=ADC_P20 Pin=J8-8
+Added Pin To Net: NetName=ADC_P20 Pin=R1_bridge20-1
+Added Net: Name=ADC_P20
+Added Pin To Net: NetName=ADC_P21 Pin=J8-2
+Added Pin To Net: NetName=ADC_P21 Pin=J8-4
+Added Pin To Net: NetName=ADC_P21 Pin=R1_bridge21-1
+Added Net: Name=ADC_P21
+Added Pin To Net: NetName=ADC_P22 Pin=J9-10
+Added Pin To Net: NetName=ADC_P22 Pin=J9-12
+Added Pin To Net: NetName=ADC_P22 Pin=R1_bridge22-1
+Added Net: Name=ADC_P22
+Added Pin To Net: NetName=ADC_P23 Pin=J9-6
+Added Pin To Net: NetName=ADC_P23 Pin=J9-8
+Added Pin To Net: NetName=ADC_P23 Pin=R1_bridge23-1
+Added Net: Name=ADC_P23
+Added Pin To Net: NetName=ADC_P24 Pin=J9-2
+Added Pin To Net: NetName=ADC_P24 Pin=J9-4
+Added Pin To Net: NetName=ADC_P24 Pin=R1_bridge24-1
+Added Net: Name=ADC_P24
+Added Class: Name=ADC_N[1..24]
+Added Class: Name=ADC_P[1..24]
+Added Member To Class: ClassName=LOADCELL_N[1..24] Member=Element[0]: LOADCELL_N

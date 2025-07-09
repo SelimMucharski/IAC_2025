@@ -1,0 +1,888 @@
+Removed Pin From Net: NetName=ADC_N1 Pin=R2_bridge1-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge1-2
+Removed Pin From Net: NetName=ADC_N2 Pin=R2_bridge2-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge2-2
+Removed Pin From Net: NetName=ADC_N3 Pin=R2_bridge3-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge3-2
+Removed Pin From Net: NetName=ADC_N4 Pin=R2_bridge4-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge4-2
+Removed Pin From Net: NetName=ADC_N5 Pin=R2_bridge5-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge5-2
+Removed Pin From Net: NetName=ADC_N6 Pin=R2_bridge6-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge6-2
+Removed Pin From Net: NetName=ADC_N7 Pin=R2_bridge7-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge7-2
+Removed Pin From Net: NetName=ADC_N8 Pin=R2_bridge8-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge8-2
+Removed Pin From Net: NetName=ADC_N9 Pin=R2_bridge9-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge9-2
+Removed Pin From Net: NetName=ADC_N10 Pin=R2_bridge10-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge10-2
+Removed Pin From Net: NetName=ADC_N11 Pin=R2_bridge11-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge11-2
+Removed Pin From Net: NetName=ADC_N12 Pin=R2_bridge12-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge12-2
+Removed Pin From Net: NetName=ADC_N13 Pin=R2_bridge13-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge13-2
+Removed Pin From Net: NetName=ADC_N14 Pin=R2_bridge14-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge14-2
+Removed Pin From Net: NetName=ADC_N15 Pin=R2_bridge15-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge15-2
+Removed Pin From Net: NetName=ADC_N16 Pin=R2_bridge16-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge16-2
+Removed Pin From Net: NetName=ADC_N17 Pin=R2_bridge17-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge17-2
+Removed Pin From Net: NetName=ADC_N18 Pin=R2_bridge18-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge18-2
+Removed Pin From Net: NetName=ADC_N19 Pin=R2_bridge19-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge19-2
+Removed Pin From Net: NetName=ADC_N20 Pin=R2_bridge20-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge20-2
+Removed Pin From Net: NetName=ADC_N21 Pin=R2_bridge21-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge21-2
+Removed Pin From Net: NetName=ADC_N22 Pin=R2_bridge22-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge22-2
+Removed Pin From Net: NetName=ADC_N23 Pin=R2_bridge23-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge23-2
+Removed Pin From Net: NetName=ADC_N24 Pin=R2_bridge24-1
+Removed Pin From Net: NetName=5V Pin=R2_bridge24-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge1-1
+Removed Pin From Net: NetName=ADC_N1 Pin=R3_bridge1-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge2-1
+Removed Pin From Net: NetName=ADC_N2 Pin=R3_bridge2-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge3-1
+Removed Pin From Net: NetName=ADC_N3 Pin=R3_bridge3-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge4-1
+Removed Pin From Net: NetName=ADC_N4 Pin=R3_bridge4-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge5-1
+Removed Pin From Net: NetName=ADC_N5 Pin=R3_bridge5-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge6-1
+Removed Pin From Net: NetName=ADC_N6 Pin=R3_bridge6-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge7-1
+Removed Pin From Net: NetName=ADC_N7 Pin=R3_bridge7-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge8-1
+Removed Pin From Net: NetName=ADC_N8 Pin=R3_bridge8-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge9-1
+Removed Pin From Net: NetName=ADC_N9 Pin=R3_bridge9-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge10-1
+Removed Pin From Net: NetName=ADC_N10 Pin=R3_bridge10-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge11-1
+Removed Pin From Net: NetName=ADC_N11 Pin=R3_bridge11-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge12-1
+Removed Pin From Net: NetName=ADC_N12 Pin=R3_bridge12-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge13-1
+Removed Pin From Net: NetName=ADC_N13 Pin=R3_bridge13-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge14-1
+Removed Pin From Net: NetName=ADC_N14 Pin=R3_bridge14-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge15-1
+Removed Pin From Net: NetName=ADC_N15 Pin=R3_bridge15-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge16-1
+Removed Pin From Net: NetName=ADC_N16 Pin=R3_bridge16-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge17-1
+Removed Pin From Net: NetName=ADC_N17 Pin=R3_bridge17-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge18-1
+Removed Pin From Net: NetName=ADC_N18 Pin=R3_bridge18-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge19-1
+Removed Pin From Net: NetName=ADC_N19 Pin=R3_bridge19-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge20-1
+Removed Pin From Net: NetName=ADC_N20 Pin=R3_bridge20-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge21-1
+Removed Pin From Net: NetName=ADC_N21 Pin=R3_bridge21-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge22-1
+Removed Pin From Net: NetName=ADC_N22 Pin=R3_bridge22-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge23-1
+Removed Pin From Net: NetName=ADC_N23 Pin=R3_bridge23-2
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=R3_bridge24-1
+Removed Pin From Net: NetName=ADC_N24 Pin=R3_bridge24-2
+Removed Member From Class: ClassName=bridge1 Member=R2_bridge1
+Removed Member From Class: ClassName=bridge2 Member=R2_bridge2
+Removed Member From Class: ClassName=bridge3 Member=R2_bridge3
+Removed Member From Class: ClassName=bridge4 Member=R2_bridge4
+Removed Member From Class: ClassName=bridge5 Member=R2_bridge5
+Removed Member From Class: ClassName=bridge6 Member=R2_bridge6
+Removed Member From Class: ClassName=bridge7 Member=R2_bridge7
+Removed Member From Class: ClassName=bridge8 Member=R2_bridge8
+Removed Member From Class: ClassName=bridge9 Member=R2_bridge9
+Removed Member From Class: ClassName=bridge10 Member=R2_bridge10
+Removed Member From Class: ClassName=bridge11 Member=R2_bridge11
+Removed Member From Class: ClassName=bridge12 Member=R2_bridge12
+Removed Member From Class: ClassName=bridge13 Member=R2_bridge13
+Removed Member From Class: ClassName=bridge14 Member=R2_bridge14
+Removed Member From Class: ClassName=bridge15 Member=R2_bridge15
+Removed Member From Class: ClassName=bridge16 Member=R2_bridge16
+Removed Member From Class: ClassName=bridge17 Member=R2_bridge17
+Removed Member From Class: ClassName=bridge18 Member=R2_bridge18
+Removed Member From Class: ClassName=bridge19 Member=R2_bridge19
+Removed Member From Class: ClassName=bridge20 Member=R2_bridge20
+Removed Member From Class: ClassName=bridge21 Member=R2_bridge21
+Removed Member From Class: ClassName=bridge22 Member=R2_bridge22
+Removed Member From Class: ClassName=bridge23 Member=R2_bridge23
+Removed Member From Class: ClassName=bridge24 Member=R2_bridge24
+Change Component Footprint: Designator=R1_bridge1 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge2 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge3 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge4 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge5 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge6 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge7 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge8 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge9 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge10 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge11 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge12 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge13 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge14 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge15 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge16 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge17 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge18 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge19 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge20 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge21 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge22 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge23 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R1_bridge24 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge1 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge2 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge3 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge4 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge5 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge6 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge7 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge8 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge9 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge10 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge11 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge12 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge13 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge14 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge15 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge16 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge17 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge18 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge19 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge20 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge21 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge22 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge23 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Footprint: Designator=R3_bridge24 Old Footprint=FP-CR1206-IPC_B New Footprint=RESC1206(3216)_N
+Change Component Comment : Designator=R1_bridge1 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge2 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge3 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge4 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge5 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge6 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge7 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge8 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge9 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge10 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge11 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge12 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge13 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge14 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge15 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge16 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge17 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge18 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge19 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge20 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge21 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge22 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge23 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R1_bridge24 Old Comment=R1 New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge1 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge2 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge3 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge4 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge5 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge6 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge7 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge8 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge9 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge10 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge11 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge12 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge13 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge14 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge15 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge16 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge17 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge18 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge19 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge20 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge21 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge22 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge23 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Component Comment : Designator=R3_bridge24 Old Comment=Rx New Comment=20R 1% 1206(3216)
+Change Managed Component Library Link : Designator=R1_bridge1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R1_bridge24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change Managed Component Library Link : Designator=R3_bridge24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=078E6BD1-CE42-4CC6-A8B2-5332B3EE4F0A New ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 Old RevisionGUID=3BF5C963-2CD0-48BE-B92E-439CD2FA1FF0 New RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F
+Change component parameters: Designator = "R1_bridge1" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\1HIYQQFOX\HYKHKLXP" ("\1HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge2" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\2HIYQQFOX\HYKHKLXP" ("\2HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge3" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\3HIYQQFOX\HYKHKLXP" ("\3HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge4" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\4HIYQQFOX\HYKHKLXP" ("\4HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge5" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\5HIYQQFOX\HYKHKLXP" ("\5HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge6" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\6HIYQQFOX\HYKHKLXP" ("\6HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge7" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\7HIYQQFOX\HYKHKLXP" ("\7HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge8" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\8HIYQQFOX\HYKHKLXP" ("\8HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge9" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\9HIYQQFOX\HYKHKLXP" ("\9HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge10" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\10HIYQQFOX\HYKHKLXP" ("\10HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge11" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\11HIYQQFOX\HYKHKLXP" ("\11HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge12" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\12HIYQQFOX\HYKHKLXP" ("\12HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge13" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\13HIYQQFOX\HYKHKLXP" ("\13HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge14" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\14HIYQQFOX\HYKHKLXP" ("\14HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge15" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\15HIYQQFOX\HYKHKLXP" ("\15HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge16" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\16HIYQQFOX\HYKHKLXP" ("\16HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge17" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\17HIYQQFOX\HYKHKLXP" ("\17HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge18" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\18HIYQQFOX\HYKHKLXP" ("\18HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge19" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\19HIYQQFOX\HYKHKLXP" ("\19HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge20" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\20HIYQQFOX\HYKHKLXP" ("\20HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge21" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\21HIYQQFOX\HYKHKLXP" ("\21HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge22" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\22HIYQQFOX\HYKHKLXP" ("\22HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge23" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\23HIYQQFOX\HYKHKLXP" ("\23HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_bridge24" ("R1"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\24HIYQQFOX\HYKHKLXP" ("\24HIYQQFOX\HYKHKLXP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge1" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\1HIYQQFOX\ZHYYWCVA" ("\1HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge2" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\2HIYQQFOX\ZHYYWCVA" ("\2HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge3" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\3HIYQQFOX\ZHYYWCVA" ("\3HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge4" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\4HIYQQFOX\ZHYYWCVA" ("\4HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge5" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\5HIYQQFOX\ZHYYWCVA" ("\5HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge6" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\6HIYQQFOX\ZHYYWCVA" ("\6HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge7" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\7HIYQQFOX\ZHYYWCVA" ("\7HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge8" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\8HIYQQFOX\ZHYYWCVA" ("\8HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge9" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\9HIYQQFOX\ZHYYWCVA" ("\9HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge10" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\10HIYQQFOX\ZHYYWCVA" ("\10HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge11" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\11HIYQQFOX\ZHYYWCVA" ("\11HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge12" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\12HIYQQFOX\ZHYYWCVA" ("\12HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge13" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\13HIYQQFOX\ZHYYWCVA" ("\13HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge14" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\14HIYQQFOX\ZHYYWCVA" ("\14HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge15" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\15HIYQQFOX\ZHYYWCVA" ("\15HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge16" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\16HIYQQFOX\ZHYYWCVA" ("\16HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge17" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\17HIYQQFOX\ZHYYWCVA" ("\17HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge18" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\18HIYQQFOX\ZHYYWCVA" ("\18HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge19" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\19HIYQQFOX\ZHYYWCVA" ("\19HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge20" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\20HIYQQFOX\ZHYYWCVA" ("\20HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge21" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\21HIYQQFOX\ZHYYWCVA" ("\21HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge22" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\22HIYQQFOX\ZHYYWCVA" ("\22HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge23" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\23HIYQQFOX\ZHYYWCVA" ("\23HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_bridge24" ("R3"); Footprint = "FP-CR1206-IPC_B"; UniqueID = "\24HIYQQFOX\ZHYYWCVA" ("\24HIYQQFOX\ZHYYWCVA")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge1(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge2(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge3(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge4(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge5(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge6(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge7(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge8(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge9(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge10(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge11(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge12(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge13(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge14(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge15(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge16(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge17(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge18(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge19(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge20(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge21(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge22(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge23(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX_bridge24(RESC1206(3216)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_N1 Pin=R3_bridge1-1
+Added Pin To Net: NetName=5V Pin=R3_bridge1-2
+Added Pin To Net: NetName=ADC_N2 Pin=R3_bridge2-1
+Added Pin To Net: NetName=5V Pin=R3_bridge2-2
+Added Pin To Net: NetName=ADC_N3 Pin=R3_bridge3-1
+Added Pin To Net: NetName=5V Pin=R3_bridge3-2
+Added Pin To Net: NetName=ADC_N4 Pin=R3_bridge4-1
+Added Pin To Net: NetName=5V Pin=R3_bridge4-2
+Added Pin To Net: NetName=ADC_N5 Pin=R3_bridge5-1
+Added Pin To Net: NetName=5V Pin=R3_bridge5-2
+Added Pin To Net: NetName=ADC_N6 Pin=R3_bridge6-1
+Added Pin To Net: NetName=5V Pin=R3_bridge6-2
+Added Pin To Net: NetName=ADC_N7 Pin=R3_bridge7-1
+Added Pin To Net: NetName=5V Pin=R3_bridge7-2
+Added Pin To Net: NetName=ADC_N8 Pin=R3_bridge8-1
+Added Pin To Net: NetName=5V Pin=R3_bridge8-2
+Added Pin To Net: NetName=ADC_N9 Pin=R3_bridge9-1
+Added Pin To Net: NetName=5V Pin=R3_bridge9-2
+Added Pin To Net: NetName=ADC_N10 Pin=R3_bridge10-1
+Added Pin To Net: NetName=5V Pin=R3_bridge10-2
+Added Pin To Net: NetName=ADC_N11 Pin=R3_bridge11-1
+Added Pin To Net: NetName=5V Pin=R3_bridge11-2
+Added Pin To Net: NetName=ADC_N12 Pin=R3_bridge12-1
+Added Pin To Net: NetName=5V Pin=R3_bridge12-2
+Added Pin To Net: NetName=ADC_N13 Pin=R3_bridge13-1
+Added Pin To Net: NetName=5V Pin=R3_bridge13-2
+Added Pin To Net: NetName=ADC_N14 Pin=R3_bridge14-1
+Added Pin To Net: NetName=5V Pin=R3_bridge14-2
+Added Pin To Net: NetName=ADC_N15 Pin=R3_bridge15-1
+Added Pin To Net: NetName=5V Pin=R3_bridge15-2
+Added Pin To Net: NetName=ADC_N16 Pin=R3_bridge16-1
+Added Pin To Net: NetName=5V Pin=R3_bridge16-2
+Added Pin To Net: NetName=ADC_N17 Pin=R3_bridge17-1
+Added Pin To Net: NetName=5V Pin=R3_bridge17-2
+Added Pin To Net: NetName=ADC_N18 Pin=R3_bridge18-1
+Added Pin To Net: NetName=5V Pin=R3_bridge18-2
+Added Pin To Net: NetName=ADC_N19 Pin=R3_bridge19-1
+Added Pin To Net: NetName=5V Pin=R3_bridge19-2
+Added Pin To Net: NetName=ADC_N20 Pin=R3_bridge20-1
+Added Pin To Net: NetName=5V Pin=R3_bridge20-2
+Added Pin To Net: NetName=ADC_N21 Pin=R3_bridge21-1
+Added Pin To Net: NetName=5V Pin=R3_bridge21-2
+Added Pin To Net: NetName=ADC_N22 Pin=R3_bridge22-1
+Added Pin To Net: NetName=5V Pin=R3_bridge22-2
+Added Pin To Net: NetName=ADC_N23 Pin=R3_bridge23-1
+Added Pin To Net: NetName=5V Pin=R3_bridge23-2
+Added Pin To Net: NetName=ADC_N24 Pin=R3_bridge24-1
+Added Pin To Net: NetName=5V Pin=R3_bridge24-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge1-1
+Added Pin To Net: NetName=ADC_N1 Pin=RX_bridge1-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge2-1
+Added Pin To Net: NetName=ADC_N2 Pin=RX_bridge2-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge3-1
+Added Pin To Net: NetName=ADC_N3 Pin=RX_bridge3-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge4-1
+Added Pin To Net: NetName=ADC_N4 Pin=RX_bridge4-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge5-1
+Added Pin To Net: NetName=ADC_N5 Pin=RX_bridge5-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge6-1
+Added Pin To Net: NetName=ADC_N6 Pin=RX_bridge6-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge7-1
+Added Pin To Net: NetName=ADC_N7 Pin=RX_bridge7-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge8-1
+Added Pin To Net: NetName=ADC_N8 Pin=RX_bridge8-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge9-1
+Added Pin To Net: NetName=ADC_N9 Pin=RX_bridge9-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge10-1
+Added Pin To Net: NetName=ADC_N10 Pin=RX_bridge10-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge11-1
+Added Pin To Net: NetName=ADC_N11 Pin=RX_bridge11-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge12-1
+Added Pin To Net: NetName=ADC_N12 Pin=RX_bridge12-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge13-1
+Added Pin To Net: NetName=ADC_N13 Pin=RX_bridge13-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge14-1
+Added Pin To Net: NetName=ADC_N14 Pin=RX_bridge14-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge15-1
+Added Pin To Net: NetName=ADC_N15 Pin=RX_bridge15-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge16-1
+Added Pin To Net: NetName=ADC_N16 Pin=RX_bridge16-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge17-1
+Added Pin To Net: NetName=ADC_N17 Pin=RX_bridge17-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge18-1
+Added Pin To Net: NetName=ADC_N18 Pin=RX_bridge18-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge19-1
+Added Pin To Net: NetName=ADC_N19 Pin=RX_bridge19-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge20-1
+Added Pin To Net: NetName=ADC_N20 Pin=RX_bridge20-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge21-1
+Added Pin To Net: NetName=ADC_N21 Pin=RX_bridge21-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge22-1
+Added Pin To Net: NetName=ADC_N22 Pin=RX_bridge22-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge23-1
+Added Pin To Net: NetName=ADC_N23 Pin=RX_bridge23-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX_bridge24-1
+Added Pin To Net: NetName=ADC_N24 Pin=RX_bridge24-2
+Added Member To Class: ClassName=bridge1 Member=Component RX_bridge1 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge2 Member=Component RX_bridge2 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge3 Member=Component RX_bridge3 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge4 Member=Component RX_bridge4 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge5 Member=Component RX_bridge5 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge6 Member=Component RX_bridge6 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge7 Member=Component RX_bridge7 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge8 Member=Component RX_bridge8 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge9 Member=Component RX_bridge9 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge10 Member=Component RX_bridge10 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge11 Member=Component RX_bridge11 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge12 Member=Component RX_bridge12 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge13 Member=Component RX_bridge13 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge14 Member=Component RX_bridge14 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge15 Member=Component RX_bridge15 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge16 Member=Component RX_bridge16 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge17 Member=Component RX_bridge17 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge18 Member=Component RX_bridge18 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge19 Member=Component RX_bridge19 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge20 Member=Component RX_bridge20 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge21 Member=Component RX_bridge21 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge22 Member=Component RX_bridge22 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge23 Member=Component RX_bridge23 (RX) 20R 1% 1206(3216)
+Added Member To Class: ClassName=bridge24 Member=Component RX_bridge24 (RX) 20R 1% 1206(3216)

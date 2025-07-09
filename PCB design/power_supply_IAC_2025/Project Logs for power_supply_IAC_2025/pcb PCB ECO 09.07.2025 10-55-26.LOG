@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-1
+Removed Pin From Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply1-4
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-5
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-6
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-1
+Removed Pin From Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply2-4
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-5
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-6
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-1
+Removed Pin From Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply3-4
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-5
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-6
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply4-1
+Removed Pin From Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply4-4
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply4-5
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply4-6
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply5-1
+Removed Pin From Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply5-4
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply5-5
+Removed Pin From Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply5-6
+Removed Member From Class: ClassName=Rpi_power_supply Member=Raspberry Pi Power Supply4
+Removed Member From Class: ClassName=Rpi_power_supply Member=Raspberry Pi Power Supply5
+Change Component Footprint: Designator=J_USB_Raspberry Pi Power Supply1 Old Footprint=USB1125GFB New Footprint=67298-3091
+Change Component Footprint: Designator=J_USB_Raspberry Pi Power Supply2 Old Footprint=USB1125GFB New Footprint=67298-3091
+Change Component Footprint: Designator=J_USB_Raspberry Pi Power Supply3 Old Footprint=USB1125GFB New Footprint=67298-3091
+Change Component Comment : Designator=J_USB_Raspberry Pi Power Supply1 Old Comment=USB1125-GF-B New Comment=67298-3091
+Change Component Comment : Designator=J_USB_Raspberry Pi Power Supply2 Old Comment=USB1125-GF-B New Comment=67298-3091
+Change Component Comment : Designator=J_USB_Raspberry Pi Power Supply3 Old Comment=USB1125-GF-B New Comment=67298-3091
+Change component parameters: Designator = "J_USB_Raspberry Pi Power Supply1" ("J_USB"); Footprint = "USB1125GFB"; UniqueID = "\1AQYLCLEP\YURPEVLT" ("\1AQYLCLEP\YURPEVLT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us//0672983091_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/67298-3091?qs=naUSJSqnqcIXoje%2FIC6j2Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J_USB_Raspberry Pi Power Supply2" ("J_USB"); Footprint = "USB1125GFB"; UniqueID = "\2AQYLCLEP\YURPEVLT" ("\2AQYLCLEP\YURPEVLT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us//0672983091_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/67298-3091?qs=naUSJSqnqcIXoje%2FIC6j2Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J_USB_Raspberry Pi Power Supply3" ("J_USB"); Footprint = "USB1125GFB"; UniqueID = "\3AQYLCLEP\YURPEVLT" ("\3AQYLCLEP\YURPEVLT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us//0672983091_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-67298-3091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/67298-3091?qs=naUSJSqnqcIXoje%2FIC6j2Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply1-1
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply1-2
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply1-3
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-8
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-9
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-10
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-11
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply1-12
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply2-1
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply2-2
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply2-3
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-8
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-9
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-10
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-11
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply2-12
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply3-1
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply3-2
+Added Pin To Net: NetName=+5 Pin=J_USB_Raspberry Pi Power Supply3-3
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-8
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-9
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-10
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-11
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J_USB_Raspberry Pi Power Supply3-12

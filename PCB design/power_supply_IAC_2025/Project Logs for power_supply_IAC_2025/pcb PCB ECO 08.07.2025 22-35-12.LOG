@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=LOADCELL_P5 Pin=J3-4
+Removed Pin From Net: NetName=LOADCELL_P4 Pin=J3-8
+Removed Pin From Net: NetName=LOADCELL_P3 Pin=J3-12
+Removed Pin From Net: NetName=LOADCELL_P8 Pin=J4-4
+Removed Pin From Net: NetName=LOADCELL_P7 Pin=J4-8
+Removed Pin From Net: NetName=LOADCELL_P6 Pin=J4-12
+Removed Pin From Net: NetName=LOADCELL_P11 Pin=J5-4
+Removed Pin From Net: NetName=LOADCELL_P10 Pin=J5-8
+Removed Pin From Net: NetName=LOADCELL_P9 Pin=J5-12
+Removed Pin From Net: NetName=LOADCELL_P14 Pin=J6-4
+Removed Pin From Net: NetName=LOADCELL_P13 Pin=J6-8
+Removed Pin From Net: NetName=LOADCELL_P12 Pin=J6-12
+Removed Pin From Net: NetName=LOADCELL_P17 Pin=J7-4
+Removed Pin From Net: NetName=LOADCELL_P16 Pin=J7-8
+Removed Pin From Net: NetName=LOADCELL_P15 Pin=J7-12
+Removed Pin From Net: NetName=LOADCELL_P20 Pin=J8-4
+Removed Pin From Net: NetName=LOADCELL_P19 Pin=J8-8
+Removed Pin From Net: NetName=LOADCELL_P18 Pin=J8-12
+Removed Pin From Net: NetName=LOADCELL_P23 Pin=J9-4
+Removed Pin From Net: NetName=LOADCELL_P22 Pin=J9-8
+Removed Pin From Net: NetName=LOADCELL_P21 Pin=J9-12
+Added Pin To Net: NetName=LOADCELL_P5 Pin=J3-8
+Added Pin To Net: NetName=LOADCELL_P4 Pin=J3-12
+Added Pin To Net: NetName=LOADCELL_P9 Pin=J4-4
+Added Pin To Net: NetName=LOADCELL_P8 Pin=J4-8
+Added Pin To Net: NetName=LOADCELL_P7 Pin=J4-12
+Added Pin To Net: NetName=LOADCELL_P12 Pin=J5-4
+Added Pin To Net: NetName=LOADCELL_P11 Pin=J5-8
+Added Pin To Net: NetName=LOADCELL_P10 Pin=J5-12
+Added Pin To Net: NetName=LOADCELL_P15 Pin=J6-4
+Added Pin To Net: NetName=LOADCELL_P14 Pin=J6-8
+Added Pin To Net: NetName=LOADCELL_P13 Pin=J6-12
+Added Pin To Net: NetName=LOADCELL_P18 Pin=J7-4
+Added Pin To Net: NetName=LOADCELL_P17 Pin=J7-8
+Added Pin To Net: NetName=LOADCELL_P16 Pin=J7-12
+Added Pin To Net: NetName=LOADCELL_P21 Pin=J8-4
+Added Pin To Net: NetName=LOADCELL_P20 Pin=J8-8
+Added Pin To Net: NetName=LOADCELL_P19 Pin=J8-12
+Added Pin To Net: NetName=LOADCELL_P24 Pin=J9-4
+Added Pin To Net: NetName=LOADCELL_P23 Pin=J9-8
+Added Pin To Net: NetName=LOADCELL_P22 Pin=J9-12
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J2-11
+Added Pin To Net: NetName=LOADCELL_N1 Pin=R3_bridge1-1
+Added Net: Name=LOADCELL_N1
+Added Pin To Net: NetName=LOADCELL_N2 Pin=J2-7
+Added Pin To Net: NetName=LOADCELL_N2 Pin=R3_bridge2-1
+Added Net: Name=LOADCELL_N2
+Added Pin To Net: NetName=LOADCELL_N3 Pin=J2-3
+Added Pin To Net: NetName=LOADCELL_N3 Pin=R3_bridge3-1
+Added Net: Name=LOADCELL_N3
+Added Pin To Net: NetName=LOADCELL_N4 Pin=J3-11
+Added Pin To Net: NetName=LOADCELL_N4 Pin=R3_bridge4-1
+Added Net: Name=LOADCELL_N4
+Added Pin To Net: NetName=LOADCELL_N5 Pin=J3-7
+Added Pin To Net: NetName=LOADCELL_N5 Pin=R3_bridge5-1
+Added Net: Name=LOADCELL_N5
+Added Pin To Net: NetName=LOADCELL_N6 Pin=J3-3
+Added Pin To Net: NetName=LOADCELL_N6 Pin=J3-4
+Added Pin To Net: NetName=LOADCELL_N6 Pin=R3_bridge6-1
+Added Net: Name=LOADCELL_N6
+Added Pin To Net: NetName=LOADCELL_N7 Pin=J4-11
+Added Pin To Net: NetName=LOADCELL_N7 Pin=R3_bridge7-1
+Added Net: Name=LOADCELL_N7
+Added Pin To Net: NetName=LOADCELL_N8 Pin=J4-7
+Added Pin To Net: NetName=LOADCELL_N8 Pin=R3_bridge8-1
+Added Net: Name=LOADCELL_N8
+Added Pin To Net: NetName=LOADCELL_N9 Pin=J4-3
+Added Pin To Net: NetName=LOADCELL_N9 Pin=R3_bridge9-1
+Added Net: Name=LOADCELL_N9
+Added Pin To Net: NetName=LOADCELL_N10 Pin=J5-11
+Added Pin To Net: NetName=LOADCELL_N10 Pin=R3_bridge10-1
+Added Net: Name=LOADCELL_N10
+Added Pin To Net: NetName=LOADCELL_N11 Pin=J5-7
+Added Pin To Net: NetName=LOADCELL_N11 Pin=R3_bridge11-1
+Added Net: Name=LOADCELL_N11
+Added Pin To Net: NetName=LOADCELL_N12 Pin=J5-3
+Added Pin To Net: NetName=LOADCELL_N12 Pin=R3_bridge12-1
+Added Net: Name=LOADCELL_N12
+Added Pin To Net: NetName=LOADCELL_N13 Pin=J6-11
+Added Pin To Net: NetName=LOADCELL_N13 Pin=R3_bridge13-1
+Added Net: Name=LOADCELL_N13
+Added Pin To Net: NetName=LOADCELL_N14 Pin=J6-7
+Added Pin To Net: NetName=LOADCELL_N14 Pin=R3_bridge14-1
+Added Net: Name=LOADCELL_N14
+Added Pin To Net: NetName=LOADCELL_N15 Pin=J6-3
+Added Pin To Net: NetName=LOADCELL_N15 Pin=R3_bridge15-1
+Added Net: Name=LOADCELL_N15
+Added Pin To Net: NetName=LOADCELL_N16 Pin=J7-11
+Added Pin To Net: NetName=LOADCELL_N16 Pin=R3_bridge16-1
+Added Net: Name=LOADCELL_N16
+Added Pin To Net: NetName=LOADCELL_N17 Pin=J7-7
+Added Pin To Net: NetName=LOADCELL_N17 Pin=R3_bridge17-1
+Added Net: Name=LOADCELL_N17
+Added Pin To Net: NetName=LOADCELL_N18 Pin=J7-3
+Added Pin To Net: NetName=LOADCELL_N18 Pin=R3_bridge18-1
+Added Net: Name=LOADCELL_N18
+Added Pin To Net: NetName=LOADCELL_N19 Pin=J8-11
+Added Pin To Net: NetName=LOADCELL_N19 Pin=R3_bridge19-1
+Added Net: Name=LOADCELL_N19
+Added Pin To Net: NetName=LOADCELL_N20 Pin=J8-7
+Added Pin To Net: NetName=LOADCELL_N20 Pin=R3_bridge20-1
+Added Net: Name=LOADCELL_N20
+Added Pin To Net: NetName=LOADCELL_N21 Pin=J8-3
+Added Pin To Net: NetName=LOADCELL_N21 Pin=R3_bridge21-1
+Added Net: Name=LOADCELL_N21
+Added Pin To Net: NetName=LOADCELL_N22 Pin=J9-11
+Added Pin To Net: NetName=LOADCELL_N22 Pin=R3_bridge22-1
+Added Net: Name=LOADCELL_N22
+Added Pin To Net: NetName=LOADCELL_N23 Pin=J9-7
+Added Pin To Net: NetName=LOADCELL_N23 Pin=R3_bridge23-1
+Added Net: Name=LOADCELL_N23
+Added Pin To Net: NetName=LOADCELL_N24 Pin=J9-3
+Added Pin To Net: NetName=LOADCELL_N24 Pin=R3_bridge24-1
+Added Net: Name=LOADCELL_N24
+Added Class: Name=LOADCELL_N[1..24]
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_29
+Added Rule: Name=Schematic Supply Nets_30
+Added Rule: Name=Schematic Supply Nets_31
+Added Rule: Name=Schematic Supply Nets_32
+Added Rule: Name=Schematic Supply Nets_33
+Added Rule: Name=Schematic Supply Nets_34
+Added Rule: Name=Schematic Supply Nets_35
+Added Rule: Name=Schematic Supply Nets_36
+Added Rule: Name=Schematic Supply Nets_37
+Added Rule: Name=Schematic Supply Nets_38
+Added Rule: Name=Schematic Supply Nets_39
+Added Rule: Name=Schematic Supply Nets_40
+Added Rule: Name=Schematic Supply Nets_41
+Added Rule: Name=Schematic Supply Nets_42
+Added Rule: Name=Schematic Supply Nets_43
+Added Rule: Name=Schematic Supply Nets_44
+Added Rule: Name=Schematic Supply Nets_45
+Added Rule: Name=Schematic Supply Nets_46
+Added Rule: Name=Schematic Supply Nets_47
+Added Rule: Name=Schematic Supply Nets_48
+Added Rule: Name=Schematic Supply Nets_49
+Added Rule: Name=Schematic Supply Nets_50
+Added Rule: Name=Schematic Supply Nets_51
