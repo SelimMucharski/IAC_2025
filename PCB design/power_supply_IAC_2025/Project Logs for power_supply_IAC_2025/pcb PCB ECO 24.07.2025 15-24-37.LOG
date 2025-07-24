@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=VCC Pin=B2_bridge1-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge1-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge2-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge2-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge3-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge3-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge4-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge4-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge5-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge5-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge6-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge6-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge7-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge7-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge8-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge8-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge9-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge9-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge10-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge10-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge11-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge11-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge12-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge12-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge13-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge13-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge14-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge14-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge15-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge15-3
+Removed Pin From Net: NetName=VCC Pin=B2_bridge16-1
+Removed Pin From Net: NetName=VCC Pin=B2_bridge16-3
+Added Component: Designator=B1(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B1-3
+Added Pin To Net: NetName=VCC Pin=B2-1
+Added Pin To Net: NetName=VCC Pin=B2-3
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V2-1
+Added Pin To Net: NetName=ADC_N1 Pin=J1-5
+Added Pin To Net: NetName=ADC_N1 Pin=R4-1
+Added Pin To Net: NetName=ADC_N1 Pin=RX2-2
+Added Net: Name=ADC_N1
+Added Pin To Net: NetName=ADC_N2 Pin=J1-1
+Added Pin To Net: NetName=ADC_N2 Pin=R2-1
+Added Pin To Net: NetName=ADC_N2 Pin=RX1-2
+Added Net: Name=ADC_N2
+Added Pin To Net: NetName=ADC_P1 Pin=J1-6
+Added Pin To Net: NetName=ADC_P1 Pin=J1-8
+Added Pin To Net: NetName=ADC_P1 Pin=R3-1
+Added Net: Name=ADC_P1
+Added Pin To Net: NetName=ADC_P2 Pin=J1-2
+Added Pin To Net: NetName=ADC_P2 Pin=J1-4
+Added Pin To Net: NetName=ADC_P2 Pin=R1-1
+Added Net: Name=ADC_P2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=B1-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=B2-2
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J1-3
+Added Pin To Net: NetName=LOADCELL_N1 Pin=J1-7
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX1-1
+Added Pin To Net: NetName=LOADCELL_N1 Pin=RX2-1
+Added Net: Name=LOADCELL_N1
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=R1-2
+Added Pin To Net: NetName=NetB1_5 Pin=R2-2
+Added Net: Name=NetB1_5
+Added Pin To Net: NetName=NetB2_5 Pin=B2-5
+Added Pin To Net: NetName=NetB2_5 Pin=R3-2
+Added Pin To Net: NetName=NetB2_5 Pin=R4-2
+Added Net: Name=NetB2_5
+Added Class: Name=socket_2bridges
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
+Change Room Name: Old Name=bridge16 New Name=socket_2bridges
+Change Room Scope: Old Scope=InComponentClass('bridge16') New Scope=InComponentClass('socket_2bridges')
+Added Rule: Name=Schematic Supply Nets

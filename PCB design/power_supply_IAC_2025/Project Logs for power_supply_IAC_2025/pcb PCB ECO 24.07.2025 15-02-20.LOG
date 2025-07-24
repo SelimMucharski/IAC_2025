@@ -1,0 +1,16 @@
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
+Change Room Name: Old Name=bridge11 New Name=socket6
+Change Room Scope: Old Scope=InComponentClass('bridge11') New Scope=InComponentClass('socket6')
+Change Room Name: Old Name=bridge12 New Name=socket5
+Change Room Scope: Old Scope=InComponentClass('bridge12') New Scope=InComponentClass('socket5')
+Added Room: Name=socket1
+Added Room: Name=socket2
+Added Room: Name=socket3
+Added Room: Name=socket4
+Added Room: Name=socket7
+Added Room: Name=socket8

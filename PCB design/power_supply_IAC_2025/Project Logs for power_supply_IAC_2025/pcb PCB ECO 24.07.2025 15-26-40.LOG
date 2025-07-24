@@ -1,0 +1,829 @@
+Removed Pin From Net: NetName=VCC Pin=B1-1
+Removed Pin From Net: NetName=VCC Pin=B1-3
+Removed Pin From Net: NetName=VCC Pin=B2-1
+Removed Pin From Net: NetName=VCC Pin=B2-3
+Added Component: Designator=B1_socket1(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket2(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket3(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket4(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket5(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket6(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket7(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1_socket8(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket1(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket2(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket3(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket4(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket5(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket6(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket7(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_socket8(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket1(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket2(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket3(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket4(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket5(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket6(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket7(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket8(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX1_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket2(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket3(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket4(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket5(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket6(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket7(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=RX2_socket8(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B1_socket1-1
+Added Pin To Net: NetName=VCC Pin=B1_socket1-3
+Added Pin To Net: NetName=VCC Pin=B1_socket2-1
+Added Pin To Net: NetName=VCC Pin=B1_socket2-3
+Added Pin To Net: NetName=VCC Pin=B1_socket3-1
+Added Pin To Net: NetName=VCC Pin=B1_socket3-3
+Added Pin To Net: NetName=VCC Pin=B1_socket4-1
+Added Pin To Net: NetName=VCC Pin=B1_socket4-3
+Added Pin To Net: NetName=VCC Pin=B1_socket5-1
+Added Pin To Net: NetName=VCC Pin=B1_socket5-3
+Added Pin To Net: NetName=VCC Pin=B1_socket6-1
+Added Pin To Net: NetName=VCC Pin=B1_socket6-3
+Added Pin To Net: NetName=VCC Pin=B1_socket7-1
+Added Pin To Net: NetName=VCC Pin=B1_socket7-3
+Added Pin To Net: NetName=VCC Pin=B1_socket8-1
+Added Pin To Net: NetName=VCC Pin=B1_socket8-3
+Added Pin To Net: NetName=VCC Pin=B2_socket1-1
+Added Pin To Net: NetName=VCC Pin=B2_socket1-3
+Added Pin To Net: NetName=VCC Pin=B2_socket2-1
+Added Pin To Net: NetName=VCC Pin=B2_socket2-3
+Added Pin To Net: NetName=VCC Pin=B2_socket3-1
+Added Pin To Net: NetName=VCC Pin=B2_socket3-3
+Added Pin To Net: NetName=VCC Pin=B2_socket4-1
+Added Pin To Net: NetName=VCC Pin=B2_socket4-3
+Added Pin To Net: NetName=VCC Pin=B2_socket5-1
+Added Pin To Net: NetName=VCC Pin=B2_socket5-3
+Added Pin To Net: NetName=VCC Pin=B2_socket6-1
+Added Pin To Net: NetName=VCC Pin=B2_socket6-3
+Added Pin To Net: NetName=VCC Pin=B2_socket7-1
+Added Pin To Net: NetName=VCC Pin=B2_socket7-3
+Added Pin To Net: NetName=VCC Pin=B2_socket8-1
+Added Pin To Net: NetName=VCC Pin=B2_socket8-3
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V2-1
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=J1_socket1-5
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=R4_socket1-1
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=RX2_socket1-2
+Added Net: Name=ADC_N1_socket1
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=J1_socket2-5
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=R4_socket2-1
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=RX2_socket2-2
+Added Net: Name=ADC_N1_socket2
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=J1_socket3-5
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=R4_socket3-1
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=RX2_socket3-2
+Added Net: Name=ADC_N1_socket3
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=J1_socket4-5
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=R4_socket4-1
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=RX2_socket4-2
+Added Net: Name=ADC_N1_socket4
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=J1_socket5-5
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=R4_socket5-1
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=RX2_socket5-2
+Added Net: Name=ADC_N1_socket5
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=J1_socket6-5
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=R4_socket6-1
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=RX2_socket6-2
+Added Net: Name=ADC_N1_socket6
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=J1_socket7-5
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=R4_socket7-1
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=RX2_socket7-2
+Added Net: Name=ADC_N1_socket7
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=J1_socket8-5
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=R4_socket8-1
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=RX2_socket8-2
+Added Net: Name=ADC_N1_socket8
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=J1_socket1-1
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=R2_socket1-1
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=RX1_socket1-2
+Added Net: Name=ADC_N2_socket1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=J1_socket2-1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=R2_socket2-1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=RX1_socket2-2
+Added Net: Name=ADC_N2_socket2
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=J1_socket3-1
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=R2_socket3-1
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=RX1_socket3-2
+Added Net: Name=ADC_N2_socket3
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=J1_socket4-1
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=R2_socket4-1
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=RX1_socket4-2
+Added Net: Name=ADC_N2_socket4
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=J1_socket5-1
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=R2_socket5-1
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=RX1_socket5-2
+Added Net: Name=ADC_N2_socket5
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=J1_socket6-1
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=R2_socket6-1
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=RX1_socket6-2
+Added Net: Name=ADC_N2_socket6
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=J1_socket7-1
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=R2_socket7-1
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=RX1_socket7-2
+Added Net: Name=ADC_N2_socket7
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=J1_socket8-1
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=R2_socket8-1
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=RX1_socket8-2
+Added Net: Name=ADC_N2_socket8
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=J1_socket1-6
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=J1_socket1-8
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=R3_socket1-1
+Added Net: Name=ADC_P1_socket1
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=J1_socket2-6
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=J1_socket2-8
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=R3_socket2-1
+Added Net: Name=ADC_P1_socket2
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=J1_socket3-6
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=J1_socket3-8
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=R3_socket3-1
+Added Net: Name=ADC_P1_socket3
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=J1_socket4-6
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=J1_socket4-8
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=R3_socket4-1
+Added Net: Name=ADC_P1_socket4
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=J1_socket5-6
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=J1_socket5-8
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=R3_socket5-1
+Added Net: Name=ADC_P1_socket5
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=J1_socket6-6
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=J1_socket6-8
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=R3_socket6-1
+Added Net: Name=ADC_P1_socket6
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=J1_socket7-6
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=J1_socket7-8
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=R3_socket7-1
+Added Net: Name=ADC_P1_socket7
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=J1_socket8-6
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=J1_socket8-8
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=R3_socket8-1
+Added Net: Name=ADC_P1_socket8
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=J1_socket1-2
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=J1_socket1-4
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=R1_socket1-1
+Added Net: Name=ADC_P2_socket1
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=J1_socket2-2
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=J1_socket2-4
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=R1_socket2-1
+Added Net: Name=ADC_P2_socket2
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=J1_socket3-2
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=J1_socket3-4
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=R1_socket3-1
+Added Net: Name=ADC_P2_socket3
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=J1_socket4-2
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=J1_socket4-4
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=R1_socket4-1
+Added Net: Name=ADC_P2_socket4
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=J1_socket5-2
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=J1_socket5-4
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=R1_socket5-1
+Added Net: Name=ADC_P2_socket5
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=J1_socket6-2
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=J1_socket6-4
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=R1_socket6-1
+Added Net: Name=ADC_P2_socket6
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=J1_socket7-2
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=J1_socket7-4
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=R1_socket7-1
+Added Net: Name=ADC_P2_socket7
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=J1_socket8-2
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=J1_socket8-4
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=R1_socket8-1
+Added Net: Name=ADC_P2_socket8
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket1-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket2-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket3-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket4-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket5-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket6-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket7-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B1_socket8-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket1-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket2-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket3-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket4-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket5-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket6-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket7-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B2_socket8-2
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket1-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket1-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket2-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket2-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket3-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket3-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket4-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket4-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket5-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket5-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket6-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket6-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket7-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket7-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket8-3
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=J1_socket8-7
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket1-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket2-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket3-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket4-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket5-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket6-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket7-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket8-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket1-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket2-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket3-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket4-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket5-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket6-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket7-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX2_socket8-1
+Added Net: Name=LOADCELL_N1_socket1
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket1-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket2-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket3-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket4-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket5-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket6-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket7-4
+Added Pin To Net: NetName=NetB1_socket1_4 Pin=B1_socket8-4
+Added Net: Name=NetB1_socket1_4
+Added Pin To Net: NetName=NetB1_socket1_5 Pin=B1_socket1-5
+Added Pin To Net: NetName=NetB1_socket1_5 Pin=R1_socket1-2
+Added Pin To Net: NetName=NetB1_socket1_5 Pin=R2_socket1-2
+Added Net: Name=NetB1_socket1_5
+Added Pin To Net: NetName=NetB1_socket2_5 Pin=B1_socket2-5
+Added Pin To Net: NetName=NetB1_socket2_5 Pin=R1_socket2-2
+Added Pin To Net: NetName=NetB1_socket2_5 Pin=R2_socket2-2
+Added Net: Name=NetB1_socket2_5
+Added Pin To Net: NetName=NetB1_socket3_5 Pin=B1_socket3-5
+Added Pin To Net: NetName=NetB1_socket3_5 Pin=R1_socket3-2
+Added Pin To Net: NetName=NetB1_socket3_5 Pin=R2_socket3-2
+Added Net: Name=NetB1_socket3_5
+Added Pin To Net: NetName=NetB1_socket4_5 Pin=B1_socket4-5
+Added Pin To Net: NetName=NetB1_socket4_5 Pin=R1_socket4-2
+Added Pin To Net: NetName=NetB1_socket4_5 Pin=R2_socket4-2
+Added Net: Name=NetB1_socket4_5
+Added Pin To Net: NetName=NetB1_socket5_5 Pin=B1_socket5-5
+Added Pin To Net: NetName=NetB1_socket5_5 Pin=R1_socket5-2
+Added Pin To Net: NetName=NetB1_socket5_5 Pin=R2_socket5-2
+Added Net: Name=NetB1_socket5_5
+Added Pin To Net: NetName=NetB1_socket6_5 Pin=B1_socket6-5
+Added Pin To Net: NetName=NetB1_socket6_5 Pin=R1_socket6-2
+Added Pin To Net: NetName=NetB1_socket6_5 Pin=R2_socket6-2
+Added Net: Name=NetB1_socket6_5
+Added Pin To Net: NetName=NetB1_socket7_5 Pin=B1_socket7-5
+Added Pin To Net: NetName=NetB1_socket7_5 Pin=R1_socket7-2
+Added Pin To Net: NetName=NetB1_socket7_5 Pin=R2_socket7-2
+Added Net: Name=NetB1_socket7_5
+Added Pin To Net: NetName=NetB1_socket8_5 Pin=B1_socket8-5
+Added Pin To Net: NetName=NetB1_socket8_5 Pin=R1_socket8-2
+Added Pin To Net: NetName=NetB1_socket8_5 Pin=R2_socket8-2
+Added Net: Name=NetB1_socket8_5
+Added Pin To Net: NetName=NetB2_socket1_5 Pin=B2_socket1-5
+Added Pin To Net: NetName=NetB2_socket1_5 Pin=R3_socket1-2
+Added Pin To Net: NetName=NetB2_socket1_5 Pin=R4_socket1-2
+Added Net: Name=NetB2_socket1_5
+Added Pin To Net: NetName=NetB2_socket2_5 Pin=B2_socket2-5
+Added Pin To Net: NetName=NetB2_socket2_5 Pin=R3_socket2-2
+Added Pin To Net: NetName=NetB2_socket2_5 Pin=R4_socket2-2
+Added Net: Name=NetB2_socket2_5
+Added Pin To Net: NetName=NetB2_socket3_5 Pin=B2_socket3-5
+Added Pin To Net: NetName=NetB2_socket3_5 Pin=R3_socket3-2
+Added Pin To Net: NetName=NetB2_socket3_5 Pin=R4_socket3-2
+Added Net: Name=NetB2_socket3_5
+Added Pin To Net: NetName=NetB2_socket4_5 Pin=B2_socket4-5
+Added Pin To Net: NetName=NetB2_socket4_5 Pin=R3_socket4-2
+Added Pin To Net: NetName=NetB2_socket4_5 Pin=R4_socket4-2
+Added Net: Name=NetB2_socket4_5
+Added Pin To Net: NetName=NetB2_socket5_5 Pin=B2_socket5-5
+Added Pin To Net: NetName=NetB2_socket5_5 Pin=R3_socket5-2
+Added Pin To Net: NetName=NetB2_socket5_5 Pin=R4_socket5-2
+Added Net: Name=NetB2_socket5_5
+Added Pin To Net: NetName=NetB2_socket6_5 Pin=B2_socket6-5
+Added Pin To Net: NetName=NetB2_socket6_5 Pin=R3_socket6-2
+Added Pin To Net: NetName=NetB2_socket6_5 Pin=R4_socket6-2
+Added Net: Name=NetB2_socket6_5
+Added Pin To Net: NetName=NetB2_socket7_5 Pin=B2_socket7-5
+Added Pin To Net: NetName=NetB2_socket7_5 Pin=R3_socket7-2
+Added Pin To Net: NetName=NetB2_socket7_5 Pin=R4_socket7-2
+Added Net: Name=NetB2_socket7_5
+Added Pin To Net: NetName=NetB2_socket8_5 Pin=B2_socket8-5
+Added Pin To Net: NetName=NetB2_socket8_5 Pin=R3_socket8-2
+Added Pin To Net: NetName=NetB2_socket8_5 Pin=R4_socket8-2
+Added Net: Name=NetB2_socket8_5
+Added Class: Name=socket1
+Added Class: Name=socket2
+Added Class: Name=socket3
+Added Class: Name=socket4
+Added Class: Name=socket5
+Added Class: Name=socket6
+Added Class: Name=socket7
+Added Class: Name=socket8
+Added Class: Name=socket_2bridges
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
+Change Room Name: Old Name=socket_2bridges New Name=socket6
+Change Room Scope: Old Scope=InComponentClass('socket_2bridges') New Scope=InComponentClass('socket6')
+Added Room: Name=socket1
+Added Room: Name=socket2
+Added Room: Name=socket3
+Added Room: Name=socket4
+Added Room: Name=socket5
+Added Room: Name=socket7
+Added Room: Name=socket8
+Added Rule: Name=Schematic Supply Nets_2

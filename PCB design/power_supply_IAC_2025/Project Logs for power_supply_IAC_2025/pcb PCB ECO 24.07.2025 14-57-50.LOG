@@ -1,0 +1,554 @@
+Removed Pin From Net: NetName=VCC Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=J4-7
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-7
+Removed Pin From Net: NetName=GND Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-7
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J7-7
+Removed Pin From Net: NetName=GND Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-7
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-7
+Removed Pin From Net: NetName=GND Pin=J10-3
+Removed Pin From Net: NetName=GND Pin=J10-7
+Removed Pin From Net: NetName=GND Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J11-7
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=GND Pin=J12-7
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply1-8
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply1-9
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply1-10
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply1-11
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply1-12
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply2-8
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply2-9
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply2-10
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply2-11
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply2-12
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply3-8
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply3-9
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply3-10
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply3-11
+Removed Pin From Net: NetName=GND Pin=J_USB_Raspberry Pi Power Supply3-12
+Removed Pin From Net: NetName=GND Pin=RX_bridge17-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge18-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge19-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge20-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge21-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge22-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge23-1
+Removed Pin From Net: NetName=GND Pin=RX_bridge24-1
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Member From Class: ClassName=main Member=B1
+Removed Member From Class: ClassName=main Member=C1
+Removed Member From Class: ClassName=main Member=C2
+Removed Member From Class: ClassName=main Member=C3
+Removed Member From Class: ClassName=main Member=J1
+Removed Member From Class: ClassName=main Member=J2
+Removed Member From Class: ClassName=main Member=J3
+Removed Member From Class: ClassName=main Member=J4
+Removed Member From Class: ClassName=main Member=J5
+Removed Member From Class: ClassName=main Member=J6
+Removed Member From Class: ClassName=main Member=J7
+Removed Member From Class: ClassName=main Member=J8
+Removed Member From Class: ClassName=main Member=J9
+Removed Member From Class: ClassName=main Member=J10
+Removed Member From Class: ClassName=main Member=J11
+Removed Member From Class: ClassName=main Member=J12
+Removed Member From Class: ClassName=main Member=U1
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge17
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge18
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge19
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge20
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge21
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge22
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge23
+Removed Member From Class: ClassName=wheatstone_bridge Member=bridge24
+Added Component: Designator=B2_bridge1(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge2(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge3(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge4(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge5(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge6(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge7(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge8(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge9(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge10(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge11(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge12(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge13(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge14(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge15(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2_bridge16(SOT95P280X100-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADPL40502/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADPL40502AUJZ-1.2-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket1(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket2(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket3(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket4(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket5(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket6(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket7(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_socket8(1755794)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1755794/phoenix-contact?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1755794/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1755794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1755794?qs=wd%252Bw3mUqFrk%2FIOZ4HDo8lg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B2_bridge1-1
+Added Pin To Net: NetName=GND Pin=B2_bridge1-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge1-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge2-1
+Added Pin To Net: NetName=GND Pin=B2_bridge2-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge2-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge3-1
+Added Pin To Net: NetName=GND Pin=B2_bridge3-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge3-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge4-1
+Added Pin To Net: NetName=GND Pin=B2_bridge4-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge4-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge5-1
+Added Pin To Net: NetName=GND Pin=B2_bridge5-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge5-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge6-1
+Added Pin To Net: NetName=GND Pin=B2_bridge6-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge6-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge7-1
+Added Pin To Net: NetName=GND Pin=B2_bridge7-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge7-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge8-1
+Added Pin To Net: NetName=GND Pin=B2_bridge8-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge8-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge9-1
+Added Pin To Net: NetName=GND Pin=B2_bridge9-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge9-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge10-1
+Added Pin To Net: NetName=GND Pin=B2_bridge10-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge10-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge11-1
+Added Pin To Net: NetName=GND Pin=B2_bridge11-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge11-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge12-1
+Added Pin To Net: NetName=GND Pin=B2_bridge12-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge12-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge13-1
+Added Pin To Net: NetName=GND Pin=B2_bridge13-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge13-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge14-1
+Added Pin To Net: NetName=GND Pin=B2_bridge14-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge14-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge15-1
+Added Pin To Net: NetName=GND Pin=B2_bridge15-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge15-3
+Added Pin To Net: NetName=VCC Pin=B2_bridge16-1
+Added Pin To Net: NetName=GND Pin=B2_bridge16-2
+Added Pin To Net: NetName=VCC Pin=B2_bridge16-3
+Added Pin To Net: NetName=GND Pin=J1_socket1-3
+Added Pin To Net: NetName=GND Pin=J1_socket1-7
+Added Pin To Net: NetName=GND Pin=J1_socket2-3
+Added Pin To Net: NetName=GND Pin=J1_socket2-7
+Added Pin To Net: NetName=GND Pin=J1_socket3-3
+Added Pin To Net: NetName=GND Pin=J1_socket3-7
+Added Pin To Net: NetName=GND Pin=J1_socket4-3
+Added Pin To Net: NetName=GND Pin=J1_socket4-7
+Added Pin To Net: NetName=GND Pin=J1_socket5-3
+Added Pin To Net: NetName=GND Pin=J1_socket5-7
+Added Pin To Net: NetName=GND Pin=J1_socket6-3
+Added Pin To Net: NetName=GND Pin=J1_socket6-7
+Added Pin To Net: NetName=GND Pin=J1_socket7-3
+Added Pin To Net: NetName=GND Pin=J1_socket7-7
+Added Pin To Net: NetName=GND Pin=J1_socket8-3
+Added Pin To Net: NetName=GND Pin=J1_socket8-7
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Change Net Name : Old Net Name=GND New Net Name=LOADCELL_N1_socket1
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=J1_socket1-5
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=R3_bridge1-1
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=RX_bridge1-2
+Added Net: Name=ADC_N1_socket1
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=J1_socket2-5
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=R3_bridge3-1
+Added Pin To Net: NetName=ADC_N1_socket2 Pin=RX_bridge3-2
+Added Net: Name=ADC_N1_socket2
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=J1_socket3-5
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=R3_bridge5-1
+Added Pin To Net: NetName=ADC_N1_socket3 Pin=RX_bridge5-2
+Added Net: Name=ADC_N1_socket3
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=J1_socket4-5
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=R3_bridge7-1
+Added Pin To Net: NetName=ADC_N1_socket4 Pin=RX_bridge7-2
+Added Net: Name=ADC_N1_socket4
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=J1_socket5-5
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=R3_bridge9-1
+Added Pin To Net: NetName=ADC_N1_socket5 Pin=RX_bridge9-2
+Added Net: Name=ADC_N1_socket5
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=J1_socket6-5
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=R3_bridge11-1
+Added Pin To Net: NetName=ADC_N1_socket6 Pin=RX_bridge11-2
+Added Net: Name=ADC_N1_socket6
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=J1_socket7-5
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=R3_bridge13-1
+Added Pin To Net: NetName=ADC_N1_socket7 Pin=RX_bridge13-2
+Added Net: Name=ADC_N1_socket7
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=J1_socket8-5
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=R3_bridge15-1
+Added Pin To Net: NetName=ADC_N1_socket8 Pin=RX_bridge15-2
+Added Net: Name=ADC_N1_socket8
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=J1_socket1-1
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=R3_bridge2-1
+Added Pin To Net: NetName=ADC_N2_socket1 Pin=RX_bridge2-2
+Added Net: Name=ADC_N2_socket1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=J1_socket2-1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=R3_bridge4-1
+Added Pin To Net: NetName=ADC_N2_socket2 Pin=RX_bridge4-2
+Added Net: Name=ADC_N2_socket2
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=J1_socket3-1
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=R3_bridge6-1
+Added Pin To Net: NetName=ADC_N2_socket3 Pin=RX_bridge6-2
+Added Net: Name=ADC_N2_socket3
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=J1_socket4-1
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=R3_bridge8-1
+Added Pin To Net: NetName=ADC_N2_socket4 Pin=RX_bridge8-2
+Added Net: Name=ADC_N2_socket4
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=J1_socket5-1
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=R3_bridge10-1
+Added Pin To Net: NetName=ADC_N2_socket5 Pin=RX_bridge10-2
+Added Net: Name=ADC_N2_socket5
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=J1_socket6-1
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=R3_bridge12-1
+Added Pin To Net: NetName=ADC_N2_socket6 Pin=RX_bridge12-2
+Added Net: Name=ADC_N2_socket6
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=J1_socket7-1
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=R3_bridge14-1
+Added Pin To Net: NetName=ADC_N2_socket7 Pin=RX_bridge14-2
+Added Net: Name=ADC_N2_socket7
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=J1_socket8-1
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=R3_bridge16-1
+Added Pin To Net: NetName=ADC_N2_socket8 Pin=RX_bridge16-2
+Added Net: Name=ADC_N2_socket8
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=J1_socket1-6
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=J1_socket1-8
+Added Pin To Net: NetName=ADC_P1_socket1 Pin=R1_bridge1-1
+Added Net: Name=ADC_P1_socket1
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=J1_socket2-6
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=J1_socket2-8
+Added Pin To Net: NetName=ADC_P1_socket2 Pin=R1_bridge3-1
+Added Net: Name=ADC_P1_socket2
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=J1_socket3-6
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=J1_socket3-8
+Added Pin To Net: NetName=ADC_P1_socket3 Pin=R1_bridge5-1
+Added Net: Name=ADC_P1_socket3
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=J1_socket4-6
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=J1_socket4-8
+Added Pin To Net: NetName=ADC_P1_socket4 Pin=R1_bridge7-1
+Added Net: Name=ADC_P1_socket4
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=J1_socket5-6
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=J1_socket5-8
+Added Pin To Net: NetName=ADC_P1_socket5 Pin=R1_bridge9-1
+Added Net: Name=ADC_P1_socket5
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=J1_socket6-6
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=J1_socket6-8
+Added Pin To Net: NetName=ADC_P1_socket6 Pin=R1_bridge11-1
+Added Net: Name=ADC_P1_socket6
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=J1_socket7-6
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=J1_socket7-8
+Added Pin To Net: NetName=ADC_P1_socket7 Pin=R1_bridge13-1
+Added Net: Name=ADC_P1_socket7
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=J1_socket8-6
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=J1_socket8-8
+Added Pin To Net: NetName=ADC_P1_socket8 Pin=R1_bridge15-1
+Added Net: Name=ADC_P1_socket8
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=J1_socket1-2
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=J1_socket1-4
+Added Pin To Net: NetName=ADC_P2_socket1 Pin=R1_bridge2-1
+Added Net: Name=ADC_P2_socket1
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=J1_socket2-2
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=J1_socket2-4
+Added Pin To Net: NetName=ADC_P2_socket2 Pin=R1_bridge4-1
+Added Net: Name=ADC_P2_socket2
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=J1_socket3-2
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=J1_socket3-4
+Added Pin To Net: NetName=ADC_P2_socket3 Pin=R1_bridge6-1
+Added Net: Name=ADC_P2_socket3
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=J1_socket4-2
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=J1_socket4-4
+Added Pin To Net: NetName=ADC_P2_socket4 Pin=R1_bridge8-1
+Added Net: Name=ADC_P2_socket4
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=J1_socket5-2
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=J1_socket5-4
+Added Pin To Net: NetName=ADC_P2_socket5 Pin=R1_bridge10-1
+Added Net: Name=ADC_P2_socket5
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=J1_socket6-2
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=J1_socket6-4
+Added Pin To Net: NetName=ADC_P2_socket6 Pin=R1_bridge12-1
+Added Net: Name=ADC_P2_socket6
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=J1_socket7-2
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=J1_socket7-4
+Added Pin To Net: NetName=ADC_P2_socket7 Pin=R1_bridge14-1
+Added Net: Name=ADC_P2_socket7
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=J1_socket8-2
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=J1_socket8-4
+Added Pin To Net: NetName=ADC_P2_socket8 Pin=R1_bridge16-1
+Added Net: Name=ADC_P2_socket8
+Added Pin To Net: NetName=NetB2_bridge1_5 Pin=B2_bridge1-5
+Added Pin To Net: NetName=NetB2_bridge1_5 Pin=R1_bridge1-2
+Added Pin To Net: NetName=NetB2_bridge1_5 Pin=R3_bridge1-2
+Added Net: Name=NetB2_bridge1_5
+Added Pin To Net: NetName=NetB2_bridge2_5 Pin=B2_bridge2-5
+Added Pin To Net: NetName=NetB2_bridge2_5 Pin=R1_bridge2-2
+Added Pin To Net: NetName=NetB2_bridge2_5 Pin=R3_bridge2-2
+Added Net: Name=NetB2_bridge2_5
+Added Pin To Net: NetName=NetB2_bridge3_5 Pin=B2_bridge3-5
+Added Pin To Net: NetName=NetB2_bridge3_5 Pin=R1_bridge3-2
+Added Pin To Net: NetName=NetB2_bridge3_5 Pin=R3_bridge3-2
+Added Net: Name=NetB2_bridge3_5
+Added Pin To Net: NetName=NetB2_bridge4_5 Pin=B2_bridge4-5
+Added Pin To Net: NetName=NetB2_bridge4_5 Pin=R1_bridge4-2
+Added Pin To Net: NetName=NetB2_bridge4_5 Pin=R3_bridge4-2
+Added Net: Name=NetB2_bridge4_5
+Added Pin To Net: NetName=NetB2_bridge5_5 Pin=B2_bridge5-5
+Added Pin To Net: NetName=NetB2_bridge5_5 Pin=R1_bridge5-2
+Added Pin To Net: NetName=NetB2_bridge5_5 Pin=R3_bridge5-2
+Added Net: Name=NetB2_bridge5_5
+Added Pin To Net: NetName=NetB2_bridge6_5 Pin=B2_bridge6-5
+Added Pin To Net: NetName=NetB2_bridge6_5 Pin=R1_bridge6-2
+Added Pin To Net: NetName=NetB2_bridge6_5 Pin=R3_bridge6-2
+Added Net: Name=NetB2_bridge6_5
+Added Pin To Net: NetName=NetB2_bridge7_5 Pin=B2_bridge7-5
+Added Pin To Net: NetName=NetB2_bridge7_5 Pin=R1_bridge7-2
+Added Pin To Net: NetName=NetB2_bridge7_5 Pin=R3_bridge7-2
+Added Net: Name=NetB2_bridge7_5
+Added Pin To Net: NetName=NetB2_bridge8_5 Pin=B2_bridge8-5
+Added Pin To Net: NetName=NetB2_bridge8_5 Pin=R1_bridge8-2
+Added Pin To Net: NetName=NetB2_bridge8_5 Pin=R3_bridge8-2
+Added Net: Name=NetB2_bridge8_5
+Added Pin To Net: NetName=NetB2_bridge9_5 Pin=B2_bridge9-5
+Added Pin To Net: NetName=NetB2_bridge9_5 Pin=R1_bridge9-2
+Added Pin To Net: NetName=NetB2_bridge9_5 Pin=R3_bridge9-2
+Added Net: Name=NetB2_bridge9_5
+Added Pin To Net: NetName=NetB2_bridge10_5 Pin=B2_bridge10-5
+Added Pin To Net: NetName=NetB2_bridge10_5 Pin=R1_bridge10-2
+Added Pin To Net: NetName=NetB2_bridge10_5 Pin=R3_bridge10-2
+Added Net: Name=NetB2_bridge10_5
+Added Pin To Net: NetName=NetB2_bridge11_5 Pin=B2_bridge11-5
+Added Pin To Net: NetName=NetB2_bridge11_5 Pin=R1_bridge11-2
+Added Pin To Net: NetName=NetB2_bridge11_5 Pin=R3_bridge11-2
+Added Net: Name=NetB2_bridge11_5
+Added Pin To Net: NetName=NetB2_bridge12_5 Pin=B2_bridge12-5
+Added Pin To Net: NetName=NetB2_bridge12_5 Pin=R1_bridge12-2
+Added Pin To Net: NetName=NetB2_bridge12_5 Pin=R3_bridge12-2
+Added Net: Name=NetB2_bridge12_5
+Added Pin To Net: NetName=NetB2_bridge13_5 Pin=B2_bridge13-5
+Added Pin To Net: NetName=NetB2_bridge13_5 Pin=R1_bridge13-2
+Added Pin To Net: NetName=NetB2_bridge13_5 Pin=R3_bridge13-2
+Added Net: Name=NetB2_bridge13_5
+Added Pin To Net: NetName=NetB2_bridge14_5 Pin=B2_bridge14-5
+Added Pin To Net: NetName=NetB2_bridge14_5 Pin=R1_bridge14-2
+Added Pin To Net: NetName=NetB2_bridge14_5 Pin=R3_bridge14-2
+Added Net: Name=NetB2_bridge14_5
+Added Pin To Net: NetName=NetB2_bridge15_5 Pin=B2_bridge15-5
+Added Pin To Net: NetName=NetB2_bridge15_5 Pin=R1_bridge15-2
+Added Pin To Net: NetName=NetB2_bridge15_5 Pin=R3_bridge15-2
+Added Net: Name=NetB2_bridge15_5
+Added Pin To Net: NetName=NetB2_bridge16_5 Pin=B2_bridge16-5
+Added Pin To Net: NetName=NetB2_bridge16_5 Pin=R1_bridge16-2
+Added Pin To Net: NetName=NetB2_bridge16_5 Pin=R3_bridge16-2
+Added Net: Name=NetB2_bridge16_5
+Added Class: Name=socket1
+Added Class: Name=socket2
+Added Class: Name=socket3
+Added Class: Name=socket4
+Added Class: Name=socket5
+Added Class: Name=socket6
+Added Class: Name=socket7
+Added Class: Name=socket8
+Added Class: Name=socket_2bridges
+Added Member To Class: ClassName=bridge1 Member=Component B2_bridge1 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge2 Member=Component B2_bridge2 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge3 Member=Component B2_bridge3 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge4 Member=Component B2_bridge4 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge5 Member=Component B2_bridge5 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge6 Member=Component B2_bridge6 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge7 Member=Component B2_bridge7 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge8 Member=Component B2_bridge8 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge9 Member=Component B2_bridge9 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge10 Member=Component B2_bridge10 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge11 Member=Component B2_bridge11 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge12 Member=Component B2_bridge12 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge13 Member=Component B2_bridge13 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge14 Member=Component B2_bridge14 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge15 Member=Component B2_bridge15 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=bridge16 Member=Component B2_bridge16 (B2) ADPL40502AUJZ-1.2-R7
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
+Added Rule: Name=Schematic Supply Nets_3

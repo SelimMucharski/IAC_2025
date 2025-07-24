@@ -1,0 +1,20 @@
+Added Component: Designator=B3(12BH311PRGR)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "14.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Eagle Plastic Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "12BH311P-R-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "12BH311P-R-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Eagle-Plastic-Devices/12BH311P-R-GR?qs=xlWIvxljzP5Z0EAaeyyPGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B4(12BH311PRGR)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "14.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Eagle Plastic Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "12BH311P-R-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "12BH311P-R-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Eagle-Plastic-Devices/12BH311P-R-GR?qs=xlWIvxljzP5Z0EAaeyyPGg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B3-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B3-2
+Added Pin To Net: NetName=VCC Pin=B4-1
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=B4-2
+Added Member To Class: ClassName=main Member=Component B3 12BH311P-R-GR
+Added Member To Class: ClassName=main Member=Component B4 12BH311P-R-GR

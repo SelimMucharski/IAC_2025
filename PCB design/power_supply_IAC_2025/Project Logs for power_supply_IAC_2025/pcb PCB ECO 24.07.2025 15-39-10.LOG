@@ -1,0 +1,22 @@
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Added Member To Class: ClassName=socket1 Member=Component B1_socket1 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket7 Member=Component B1_socket7 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket2 Member=Component B2_socket2 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket3 Member=Component B2_socket3 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket4 Member=Component B2_socket4 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket5 Member=Component B2_socket5 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket6 Member=Component B2_socket6 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket8 Member=Component B2_socket8 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket1 Member=Component RX2_socket1 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component RX2_socket2 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component RX2_socket3 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component RX2_socket4 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component RX2_socket5 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component RX2_socket6 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component RX2_socket7 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component RX2_socket8 (RX2) 20R 1% 1206(3216)
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
