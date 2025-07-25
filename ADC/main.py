@@ -3,7 +3,7 @@ import datetime
 from ADC import ADC
 
 file_handles = []
-REF = 5.08 # Do ustawienia !!
+REF = 2.5
 RPI_ID = 0
 
 try:
