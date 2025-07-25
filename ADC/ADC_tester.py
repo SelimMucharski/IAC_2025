@@ -4,7 +4,7 @@ import datetime
 REF = 2.5
 
 try:
-    ADC_modules: list[ADC] = [ADC()] # Ustawić pinout
+    ADC_modules: list[ADC] = [ADC(18,22,17)] # Ustawić pinout
 
     # CONFIGURATION
     for ADC_ID, module in enumerate(ADC_modules):
