@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\selim\IAC_2025\PCB design\power_supply_IAC_2025\pcb.PcbDoc
 Date     : 27.07.2025
-Time     : 20:38:38
+Time     : 21:29:56
 
-Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.16mm) (Max=2mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
@@ -24,56 +24,19 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
+Processing Rule : Minimum Annular Ring (Minimum=0.025mm) (All)
+Rule Violations :0
+
 Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.3mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (124.46mm,30.988mm) from Top Layer to Bottom Layer And Via (124.46mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (124.46mm,69.088mm) from Top Layer to Bottom Layer And Via (124.46mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (173.99mm,30.988mm) from Top Layer to Bottom Layer And Via (173.99mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (173.99mm,69.088mm) from Top Layer to Bottom Layer And Via (173.99mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (25.4mm,30.988mm) from Top Layer to Bottom Layer And Via (25.4mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (25.4mm,69.088mm) from Top Layer to Bottom Layer And Via (25.4mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (74.93mm,30.988mm) from Top Layer to Bottom Layer And Via (74.93mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (74.93mm,69.088mm) from Top Layer to Bottom Layer And Via (74.93mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-Rule Violations :8
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket1-1(21.27mm,35.54mm) on Top Layer And Pad B1_socket1-2(20.32mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket1-2(20.32mm,35.54mm) on Top Layer And Pad B1_socket1-3(19.37mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket2-1(70.8mm,35.54mm) on Top Layer And Pad B1_socket2-2(69.85mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket2-2(69.85mm,35.54mm) on Top Layer And Pad B1_socket2-3(68.9mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket3-1(21.27mm,73.64mm) on Top Layer And Pad B1_socket3-2(20.32mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket3-2(20.32mm,73.64mm) on Top Layer And Pad B1_socket3-3(19.37mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket4-1(70.8mm,73.64mm) on Top Layer And Pad B1_socket4-2(69.85mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket4-2(69.85mm,73.64mm) on Top Layer And Pad B1_socket4-3(68.9mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket5-1(120.33mm,73.64mm) on Top Layer And Pad B1_socket5-2(119.38mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket5-2(119.38mm,73.64mm) on Top Layer And Pad B1_socket5-3(118.43mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket6-1(169.86mm,73.64mm) on Top Layer And Pad B1_socket6-2(168.91mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket6-2(168.91mm,73.64mm) on Top Layer And Pad B1_socket6-3(167.96mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket7-1(120.33mm,35.54mm) on Top Layer And Pad B1_socket7-2(119.38mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket7-2(119.38mm,35.54mm) on Top Layer And Pad B1_socket7-3(118.43mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket8-1(169.86mm,35.54mm) on Top Layer And Pad B1_socket8-2(168.91mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket8-2(168.91mm,35.54mm) on Top Layer And Pad B1_socket8-3(167.96mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket1-1(41.59mm,35.54mm) on Top Layer And Pad B2_socket1-2(40.64mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket1-2(40.64mm,35.54mm) on Top Layer And Pad B2_socket1-3(39.69mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket2-1(91.12mm,35.54mm) on Top Layer And Pad B2_socket2-2(90.17mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket2-2(90.17mm,35.54mm) on Top Layer And Pad B2_socket2-3(89.22mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket3-1(41.59mm,73.64mm) on Top Layer And Pad B2_socket3-2(40.64mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket3-2(40.64mm,73.64mm) on Top Layer And Pad B2_socket3-3(39.69mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket4-1(91.12mm,73.64mm) on Top Layer And Pad B2_socket4-2(90.17mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket4-2(90.17mm,73.64mm) on Top Layer And Pad B2_socket4-3(89.22mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket5-1(140.65mm,73.64mm) on Top Layer And Pad B2_socket5-2(139.7mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket5-2(139.7mm,73.64mm) on Top Layer And Pad B2_socket5-3(138.75mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket6-1(190.18mm,73.64mm) on Top Layer And Pad B2_socket6-2(189.23mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket6-2(189.23mm,73.64mm) on Top Layer And Pad B2_socket6-3(188.28mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket7-1(140.65mm,35.54mm) on Top Layer And Pad B2_socket7-2(139.7mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket7-2(139.7mm,35.54mm) on Top Layer And Pad B2_socket7-3(138.75mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket8-1(190.18mm,35.54mm) on Top Layer And Pad B2_socket8-2(189.23mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket8-2(189.23mm,35.54mm) on Top Layer And Pad B2_socket8-3(188.28mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
-Rule Violations :32
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
@@ -85,34 +48,34 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room socket6 (Bounding Region = (179.94mm, 65.64mm, 226.93mm, 101.2mm) (InComponentClass('socket6'))
+Processing Rule : Room socket7 (Bounding Region = (130.41mm, 65.64mm, 177.4mm, 101.2mm) (InComponentClass('socket7'))
+Rule Violations :0
+
+Processing Rule : Room socket3 (Bounding Region = (130.41mm, 27.54mm, 177.4mm, 63.1mm) (InComponentClass('socket3'))
+Rule Violations :0
+
+Processing Rule : Room socket6 (Bounding Region = (80.88mm, 65.64mm, 127.87mm, 101.2mm) (InComponentClass('socket6'))
 Rule Violations :0
 
 Processing Rule : Room socket2 (Bounding Region = (80.88mm, 27.54mm, 127.87mm, 63.1mm) (InComponentClass('socket2'))
 Rule Violations :0
 
-Processing Rule : Room socket4 (Bounding Region = (80.88mm, 65.64mm, 127.87mm, 101.2mm) (InComponentClass('socket4'))
-Rule Violations :0
-
-Processing Rule : Room socket3 (Bounding Region = (31.35mm, 65.64mm, 78.34mm, 101.2mm) (InComponentClass('socket3'))
-Rule Violations :0
-
-Processing Rule : Room socket7 (Bounding Region = (130.41mm, 27.54mm, 177.4mm, 63.1mm) (InComponentClass('socket7'))
-Rule Violations :0
-
-Processing Rule : Room socket5 (Bounding Region = (130.41mm, 65.64mm, 177.4mm, 101.2mm) (InComponentClass('socket5'))
-Rule Violations :0
-
-Processing Rule : Room socket8 (Bounding Region = (179.94mm, 27.54mm, 226.93mm, 63.1mm) (InComponentClass('socket8'))
+Processing Rule : Room socket4 (Bounding Region = (179.94mm, 27.54mm, 226.93mm, 63.1mm) (InComponentClass('socket4'))
 Rule Violations :0
 
 Processing Rule : Room socket1 (Bounding Region = (31.35mm, 27.54mm, 78.34mm, 63.1mm) (InComponentClass('socket1'))
+Rule Violations :0
+
+Processing Rule : Room socket8 (Bounding Region = (179.94mm, 65.64mm, 226.93mm, 101.2mm) (InComponentClass('socket8'))
+Rule Violations :0
+
+Processing Rule : Room socket5 (Bounding Region = (31.35mm, 65.64mm, 78.34mm, 101.2mm) (InComponentClass('socket5'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 40
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:00
