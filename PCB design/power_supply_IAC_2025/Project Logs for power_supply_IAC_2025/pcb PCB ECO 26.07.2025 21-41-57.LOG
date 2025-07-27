@@ -1,0 +1,90 @@
+Change Net Name : Old Net Name=GND New Net Name=LOADCELL_N1_socket1
+Added Member To Class: ClassName=socket1 Member=Component B1_socket1 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket2 Member=Component B1_socket2 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket3 Member=Component B1_socket3 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket4 Member=Component B1_socket4 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket5 Member=Component B1_socket5 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket6 Member=Component B1_socket6 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket7 Member=Component B1_socket7 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket8 Member=Component B1_socket8 (B1) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket1 Member=Component B2_socket1 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket2 Member=Component B2_socket2 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket3 Member=Component B2_socket3 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket4 Member=Component B2_socket4 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket5 Member=Component B2_socket5 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket6 Member=Component B2_socket6 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket7 Member=Component B2_socket7 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket8 Member=Component B2_socket8 (B2) ADPL40502AUJZ-1.2-R7
+Added Member To Class: ClassName=socket1 Member=Component C1_socket1 (C1) 1uF
+Added Member To Class: ClassName=socket2 Member=Component C1_socket2 (C1) 1uF
+Added Member To Class: ClassName=socket3 Member=Component C1_socket3 (C1) 1uF
+Added Member To Class: ClassName=socket4 Member=Component C1_socket4 (C1) 1uF
+Added Member To Class: ClassName=socket5 Member=Component C1_socket5 (C1) 1uF
+Added Member To Class: ClassName=socket6 Member=Component C1_socket6 (C1) 1uF
+Added Member To Class: ClassName=socket7 Member=Component C1_socket7 (C1) 1uF
+Added Member To Class: ClassName=socket8 Member=Component C1_socket8 (C1) 1uF
+Added Member To Class: ClassName=socket1 Member=Component C2_socket1 (C2) 1uF
+Added Member To Class: ClassName=socket2 Member=Component C2_socket2 (C2) 1uF
+Added Member To Class: ClassName=socket3 Member=Component C2_socket3 (C2) 1uF
+Added Member To Class: ClassName=socket4 Member=Component C2_socket4 (C2) 1uF
+Added Member To Class: ClassName=socket5 Member=Component C2_socket5 (C2) 1uF
+Added Member To Class: ClassName=socket6 Member=Component C2_socket6 (C2) 1uF
+Added Member To Class: ClassName=socket7 Member=Component C2_socket7 (C2) 1uF
+Added Member To Class: ClassName=socket8 Member=Component C2_socket8 (C2) 1uF
+Added Member To Class: ClassName=socket1 Member=Component J1_socket1 (J1) 1755794
+Added Member To Class: ClassName=socket2 Member=Component J1_socket2 (J1) 1755794
+Added Member To Class: ClassName=socket3 Member=Component J1_socket3 (J1) 1755794
+Added Member To Class: ClassName=socket4 Member=Component J1_socket4 (J1) 1755794
+Added Member To Class: ClassName=socket5 Member=Component J1_socket5 (J1) 1755794
+Added Member To Class: ClassName=socket6 Member=Component J1_socket6 (J1) 1755794
+Added Member To Class: ClassName=socket7 Member=Component J1_socket7 (J1) 1755794
+Added Member To Class: ClassName=socket8 Member=Component J1_socket8 (J1) 1755794
+Added Member To Class: ClassName=socket1 Member=Component R11_socket1 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component R11_socket2 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component R11_socket3 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component R11_socket4 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component R11_socket5 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component R11_socket6 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component R11_socket7 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component R11_socket8 (R11) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket1 Member=Component R12_socket1 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component R12_socket2 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component R12_socket3 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component R12_socket4 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component R12_socket5 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component R12_socket6 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component R12_socket7 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component R12_socket8 (R12) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket1 Member=Component R31_socket1 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component R31_socket2 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component R31_socket3 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component R31_socket4 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component R31_socket5 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component R31_socket6 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component R31_socket7 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component R31_socket8 (R31) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket1 Member=Component R32_socket1 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component R32_socket2 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component R32_socket3 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component R32_socket4 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component R32_socket5 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component R32_socket6 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component R32_socket7 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component R32_socket8 (R32) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket1 Member=Component RX1_socket1 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component RX1_socket2 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component RX1_socket3 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component RX1_socket4 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component RX1_socket5 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component RX1_socket6 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component RX1_socket7 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component RX1_socket8 (RX1) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket1 Member=Component RX2_socket1 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket2 Member=Component RX2_socket2 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket3 Member=Component RX2_socket3 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket4 Member=Component RX2_socket4 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket5 Member=Component RX2_socket5 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket6 Member=Component RX2_socket6 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket7 Member=Component RX2_socket7 (RX2) 20R 1% 1206(3216)
+Added Member To Class: ClassName=socket8 Member=Component RX2_socket8 (RX2) 20R 1% 1206(3216)
+Added Rule: Name=Schematic Supply Nets_2

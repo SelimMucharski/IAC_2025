@@ -1,456 +1,118 @@
 Protel Design System Design Rule Check
-PCB File : D:\Altium Designer\Shared Files\Projects\power_supply_IAC_2025\pcb.PcbDoc
-Date     : 24.07.2025
-Time     : 17:18:01
+PCB File : C:\Users\selim\IAC_2025\PCB design\power_supply_IAC_2025\pcb.PcbDoc
+Date     : 27.07.2025
+Time     : 20:38:38
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket1-3(412.598mil,1299.213mil) on Top Layer [Unplated] And Pad B1_socket1-1(487.402mil,1299.213mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket1-1(487.402mil,1299.213mil) on Top Layer [Unplated] And Pad B2_socket1-3(1212.598mil,1299.213mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket1-2(450mil,1299.213mil) on Top Layer [Unplated] And Pad RX1_socket1-1(650mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket1_5 Between Pad R31_socket1-2(450mil,1022.047mil) on Top Layer And Pad B1_socket1-5(487.402mil,1200.787mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket2-3(2432.677mil,1275.197mil) on Top Layer [Unplated] And Pad B1_socket2-1(2507.48mil,1275.197mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket2-1(2507.48mil,1275.197mil) on Top Layer [Unplated] And Pad B2_socket2-3(3259.449mil,1275.197mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket2-2(2470.079mil,1275.197mil) on Top Layer [Unplated] And Pad RX1_socket2-1(2666.929mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket1-1(1287.402mil,1299.213mil) on Top Layer [Unplated] And Pad B1_socket2-3(2432.677mil,1275.197mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket2_5 Between Pad R31_socket2-2(2470.079mil,972.047mil) on Top Layer And Pad B1_socket2-5(2507.48mil,1176.772mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket3-3(4411.417mil,1251.968mil) on Top Layer [Unplated] And Pad B1_socket3-1(4486.221mil,1251.968mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket3-1(4486.221mil,1251.968mil) on Top Layer [Unplated] And Pad B2_socket3-3(5238.189mil,1251.968mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket2-2(3296.85mil,1275.197mil) on Top Layer [Unplated] And Pad B1_socket3-2(4448.819mil,1251.968mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket3-2(4448.819mil,1251.968mil) on Top Layer [Unplated] And Pad RX1_socket3-1(4645.669mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket2-1(3334.252mil,1275.197mil) on Top Layer [Unplated] And Pad B1_socket3-3(4411.417mil,1251.968mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket3_5 Between Pad R31_socket3-2(4448.819mil,948.819mil) on Top Layer And Pad B1_socket3-5(4486.221mil,1153.543mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket4-3(3545.276mil,3771.653mil) on Top Layer [Unplated] And Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer [Unplated] And Pad B1_socket8-3(3702.756mil,5740.157mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer [Unplated] And Pad B2_socket4-3(4372.047mil,3771.653mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket4-2(3582.677mil,3771.653mil) on Top Layer [Unplated] And Pad RX1_socket4-1(3779.528mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket6-1(1966.535mil,3631.89mil) on Top Layer [Unplated] And Pad B1_socket4-3(3545.276mil,3771.653mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket4_5 Between Pad R31_socket4-2(3582.677mil,3468.504mil) on Top Layer And Pad B1_socket4-5(3620.079mil,3673.228mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket5-3(6222.441mil,3811.024mil) on Top Layer [Unplated] And Pad B1_socket5-1(6297.244mil,3811.024mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket5-1(6297.244mil,3811.024mil) on Top Layer [Unplated] And Pad B2_socket5-3(7049.213mil,3811.024mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer [Unplated] And Pad B1_socket5-2(6259.842mil,3811.024mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket5-2(6259.842mil,3811.024mil) on Top Layer [Unplated] And Pad RX1_socket5-1(6456.693mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket4-1(4446.85mil,3771.653mil) on Top Layer [Unplated] And Pad B1_socket5-3(6222.441mil,3811.024mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket5_5 Between Pad R31_socket5-2(6259.842mil,3507.874mil) on Top Layer And Pad B1_socket5-5(6297.244mil,3712.598mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket6-3(1064.961mil,3631.89mil) on Top Layer [Unplated] And Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer [Unplated] And Pad B2_socket1-3(1212.598mil,1299.213mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer [Unplated] And Pad B2_socket6-3(1891.732mil,3631.89mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket7-7(1092.913mil,4864.173mil) on Multi-Layer And Pad B1_socket6-2(1102.362mil,3631.89mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket6-2(1102.362mil,3631.89mil) on Top Layer [Unplated] And Pad RX1_socket6-1(1299.213mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket6_5 Between Pad R31_socket6-2(1102.362mil,3328.74mil) on Top Layer And Pad B1_socket6-5(1139.764mil,3533.465mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket7-3(1104.331mil,5661.417mil) on Top Layer [Unplated] And Pad B1_socket7-1(1179.134mil,5661.417mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket7-1(1179.134mil,5661.417mil) on Top Layer [Unplated] And Pad B2_socket7-3(1931.102mil,5661.417mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket7-2(1141.732mil,5661.417mil) on Top Layer [Unplated] And Pad RX1_socket7-1(1338.583mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket7_5 Between Pad R31_socket7-2(1141.732mil,5358.268mil) on Top Layer And Pad B1_socket7-5(1179.134mil,5562.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket8-3(3702.756mil,5740.157mil) on Top Layer [Unplated] And Pad B1_socket8-1(3777.559mil,5740.157mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B1_socket8-1(3777.559mil,5740.157mil) on Top Layer [Unplated] And Pad B2_socket8-3(4529.528mil,5740.157mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B1_socket8-2(3740.157mil,5740.157mil) on Top Layer [Unplated] And Pad RX1_socket8-1(3937.008mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket7-1(2005.906mil,5661.417mil) on Top Layer [Unplated] And Pad B1_socket8-3(3702.756mil,5740.157mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket8_5 Between Pad R31_socket8-2(3740.157mil,5437.008mil) on Top Layer And Pad B1_socket8-5(3777.559mil,5641.732mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket1-3(1212.598mil,1299.213mil) on Top Layer [Unplated] And Pad B2_socket1-1(1287.402mil,1299.213mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket6-7(1053.543mil,2834.646mil) on Multi-Layer And Pad B2_socket1-2(1250mil,1299.213mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket1-2(1250mil,1299.213mil) on Top Layer [Unplated] And Pad RX2_socket1-1(1450mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket1_5 Between Pad R32_socket1-2(1250mil,1022.047mil) on Top Layer And Pad B2_socket1-5(1287.402mil,1200.787mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket2-3(3259.449mil,1275.197mil) on Top Layer [Unplated] And Pad B2_socket2-1(3334.252mil,1275.197mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket2-2(3296.85mil,1275.197mil) on Top Layer [Unplated] And Pad RX2_socket2-1(3493.701mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket2_5 Between Pad R32_socket2-2(3296.85mil,972.047mil) on Top Layer And Pad B2_socket2-5(3334.252mil,1176.772mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket3-3(5238.189mil,1251.968mil) on Top Layer [Unplated] And Pad B2_socket3-1(5312.992mil,1251.968mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket3-2(5275.591mil,1251.968mil) on Top Layer [Unplated] And Pad RX2_socket3-1(5472.441mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket3_5 Between Pad R32_socket3-2(5275.591mil,948.819mil) on Top Layer And Pad B2_socket3-5(5312.992mil,1153.543mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket4-3(4372.047mil,3771.653mil) on Top Layer [Unplated] And Pad B2_socket4-1(4446.85mil,3771.653mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer [Unplated] And Pad J1_socket8-3(4491.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer [Unplated] And Pad RX2_socket4-1(4606.299mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket4_5 Between Pad R32_socket4-2(4409.449mil,3468.504mil) on Top Layer And Pad B2_socket4-5(4446.85mil,3673.228mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket5-3(7049.213mil,3811.024mil) on Top Layer [Unplated] And Pad B2_socket5-1(7124.016mil,3811.024mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket5-2(7086.614mil,3811.024mil) on Top Layer [Unplated] And Pad RX2_socket5-1(7283.465mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket5_5 Between Pad R32_socket5-2(7086.614mil,3507.874mil) on Top Layer And Pad B2_socket5-5(7124.016mil,3712.598mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket6-3(1891.732mil,3631.89mil) on Top Layer [Unplated] And Pad B2_socket6-1(1966.535mil,3631.89mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket6-2(1929.134mil,3631.89mil) on Top Layer [Unplated] And Pad RX2_socket6-1(2125.984mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket6_5 Between Pad R32_socket6-2(1929.134mil,3328.74mil) on Top Layer And Pad B2_socket6-5(1966.535mil,3533.465mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket7-3(1931.102mil,5661.417mil) on Top Layer [Unplated] And Pad B2_socket7-1(2005.906mil,5661.417mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket7-2(1968.504mil,5661.417mil) on Top Layer [Unplated] And Pad RX2_socket7-1(2165.354mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket7_5 Between Pad R32_socket7-2(1968.504mil,5358.268mil) on Top Layer And Pad B2_socket7-5(2005.906mil,5562.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad B2_socket8-3(4529.528mil,5740.157mil) on Top Layer [Unplated] And Pad B2_socket8-1(4604.331mil,5740.157mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad B2_socket8-2(4566.929mil,5740.157mil) on Top Layer [Unplated] And Pad RX2_socket8-1(4763.779mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket8_5 Between Pad R32_socket8-2(4566.929mil,5437.008mil) on Top Layer And Pad B2_socket8-5(4604.331mil,5641.732mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket1 Between Pad RX2_socket1-2(1450mil,900mil) on Top Layer And Pad J1_socket1-1(1650mil,500mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket1 Between Pad J1_socket1-4(1050mil,500mil) on Multi-Layer And Pad J1_socket1-2(1450mil,500mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket1-3(1250mil,500mil) on Multi-Layer And Pad J1_socket2-7(2421.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket1-3(1250mil,500mil) on Multi-Layer And Pad RX2_socket1-1(1450mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket1 Between Pad J1_socket1-4(1050mil,500mil) on Multi-Layer And Pad R12_socket1-1(1050mil,900mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket1 Between Pad RX1_socket1-2(650mil,900mil) on Top Layer And Pad J1_socket1-5(850mil,500mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket1 Between Pad J1_socket1-8(250mil,500mil) on Multi-Layer And Pad J1_socket1-6(650mil,500mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket1-7(450mil,500mil) on Multi-Layer And Pad RX1_socket1-1(650mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket1 Between Pad J1_socket1-8(250mil,500mil) on Multi-Layer And Pad R11_socket1-1(250mil,900mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket2 Between Pad RX2_socket2-2(3493.701mil,850mil) on Top Layer And Pad J1_socket2-1(3621.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket2 Between Pad J1_socket2-4(3021.26mil,477.953mil) on Multi-Layer And Pad J1_socket2-2(3421.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket2-7(2421.26mil,477.953mil) on Multi-Layer And Pad J1_socket2-3(3221.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket2-3(3221.26mil,477.953mil) on Multi-Layer And Pad RX2_socket2-1(3493.701mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket2 Between Pad J1_socket2-4(3021.26mil,477.953mil) on Multi-Layer And Pad R12_socket2-1(3100mil,850mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket2 Between Pad RX1_socket2-2(2666.929mil,850mil) on Top Layer And Pad J1_socket2-5(2821.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket2 Between Pad J1_socket2-8(2221.26mil,477.953mil) on Multi-Layer And Pad J1_socket2-6(2621.26mil,477.953mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket2-7(2421.26mil,477.953mil) on Multi-Layer And Pad RX1_socket2-1(2666.929mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket2 Between Pad J1_socket2-8(2221.26mil,477.953mil) on Multi-Layer And Pad R11_socket2-1(2273.228mil,850mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket3 Between Pad RX2_socket3-2(5472.441mil,826.772mil) on Top Layer And Pad J1_socket3-1(5600mil,454.724mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket3 Between Pad J1_socket3-4(5000mil,454.724mil) on Multi-Layer And Pad J1_socket3-2(5400mil,454.724mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket3-7(4400mil,454.724mil) on Multi-Layer And Pad J1_socket3-3(5200mil,454.724mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket3-3(5200mil,454.724mil) on Multi-Layer And Pad RX2_socket3-1(5472.441mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket3 Between Pad J1_socket3-4(5000mil,454.724mil) on Multi-Layer And Pad R12_socket3-1(5078.74mil,826.772mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket3 Between Pad RX1_socket3-2(4645.669mil,826.772mil) on Top Layer And Pad J1_socket3-5(4800mil,454.724mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket3 Between Pad J1_socket3-8(4200mil,454.724mil) on Multi-Layer And Pad J1_socket3-6(4600mil,454.724mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket3-7(4400mil,454.724mil) on Multi-Layer And Pad RX1_socket3-1(4645.669mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket3 Between Pad J1_socket3-8(4200mil,454.724mil) on Multi-Layer And Pad R11_socket3-1(4251.968mil,826.772mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket4 Between Pad RX2_socket4-2(4606.299mil,3346.457mil) on Top Layer And Pad J1_socket4-1(4733.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket4 Between Pad J1_socket4-4(4133.858mil,2974.409mil) on Multi-Layer And Pad J1_socket4-2(4533.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket4-7(3533.858mil,2974.409mil) on Multi-Layer And Pad J1_socket4-3(4333.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket4-3(4333.858mil,2974.409mil) on Multi-Layer And Pad RX2_socket4-1(4606.299mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket4 Between Pad J1_socket4-4(4133.858mil,2974.409mil) on Multi-Layer And Pad R12_socket4-1(4212.598mil,3346.457mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket4 Between Pad RX1_socket4-2(3779.528mil,3346.457mil) on Top Layer And Pad J1_socket4-5(3933.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket4 Between Pad J1_socket4-8(3333.858mil,2974.409mil) on Multi-Layer And Pad J1_socket4-6(3733.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket4-7(3533.858mil,2974.409mil) on Multi-Layer And Pad RX1_socket4-1(3779.528mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad RX2_socket6-1(2125.984mil,3328.74mil) on Top Layer And Pad J1_socket4-7(3533.858mil,2974.409mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket4 Between Pad J1_socket4-8(3333.858mil,2974.409mil) on Multi-Layer And Pad R11_socket4-1(3385.827mil,3346.457mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket5 Between Pad RX2_socket5-2(7283.465mil,3385.827mil) on Top Layer And Pad J1_socket5-1(7411.024mil,3013.78mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket5 Between Pad J1_socket5-4(6811.024mil,3013.78mil) on Multi-Layer And Pad J1_socket5-2(7211.024mil,3013.78mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket5-7(6211.024mil,3013.78mil) on Multi-Layer And Pad J1_socket5-3(7011.024mil,3013.78mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket5-3(7011.024mil,3013.78mil) on Multi-Layer And Pad RX2_socket5-1(7283.465mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket5 Between Pad J1_socket5-4(6811.024mil,3013.78mil) on Multi-Layer And Pad R12_socket5-1(6889.764mil,3385.827mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket5 Between Pad RX1_socket5-2(6456.693mil,3385.827mil) on Top Layer And Pad J1_socket5-5(6611.024mil,3013.78mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket5 Between Pad J1_socket5-8(6011.024mil,3013.78mil) on Multi-Layer And Pad J1_socket5-6(6411.024mil,3013.78mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket5-7(6211.024mil,3013.78mil) on Multi-Layer And Pad RX1_socket5-1(6456.693mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket5 Between Pad J1_socket5-8(6011.024mil,3013.78mil) on Multi-Layer And Pad R11_socket5-1(6062.992mil,3385.827mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket6 Between Pad RX2_socket6-2(2125.984mil,3206.693mil) on Top Layer And Pad J1_socket6-1(2253.543mil,2834.646mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket6 Between Pad J1_socket6-4(1653.543mil,2834.646mil) on Multi-Layer And Pad J1_socket6-2(2053.543mil,2834.646mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket6-7(1053.543mil,2834.646mil) on Multi-Layer And Pad J1_socket6-3(1853.543mil,2834.646mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket6-3(1853.543mil,2834.646mil) on Multi-Layer And Pad RX2_socket6-1(2125.984mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket6 Between Pad J1_socket6-4(1653.543mil,2834.646mil) on Multi-Layer And Pad R12_socket6-1(1732.284mil,3206.693mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket6 Between Pad RX1_socket6-2(1299.213mil,3206.693mil) on Top Layer And Pad J1_socket6-5(1453.543mil,2834.646mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket6 Between Pad J1_socket6-8(853.543mil,2834.646mil) on Multi-Layer And Pad J1_socket6-6(1253.543mil,2834.646mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket6-7(1053.543mil,2834.646mil) on Multi-Layer And Pad RX1_socket6-1(1299.213mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket6 Between Pad J1_socket6-8(853.543mil,2834.646mil) on Multi-Layer And Pad R11_socket6-1(905.512mil,3206.693mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket7 Between Pad RX2_socket7-2(2165.354mil,5236.221mil) on Top Layer And Pad J1_socket7-1(2292.913mil,4864.173mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket7 Between Pad J1_socket7-4(1692.913mil,4864.173mil) on Multi-Layer And Pad J1_socket7-2(2092.913mil,4864.173mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket7-7(1092.913mil,4864.173mil) on Multi-Layer And Pad J1_socket7-3(1892.913mil,4864.173mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket7-3(1892.913mil,4864.173mil) on Multi-Layer And Pad RX2_socket7-1(2165.354mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket7 Between Pad J1_socket7-4(1692.913mil,4864.173mil) on Multi-Layer And Pad R12_socket7-1(1771.653mil,5236.221mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket7 Between Pad RX1_socket7-2(1338.583mil,5236.221mil) on Top Layer And Pad J1_socket7-5(1492.913mil,4864.173mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket7 Between Pad J1_socket7-8(892.913mil,4864.173mil) on Multi-Layer And Pad J1_socket7-6(1292.913mil,4864.173mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket7-7(1092.913mil,4864.173mil) on Multi-Layer And Pad RX1_socket7-1(1338.583mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket7 Between Pad J1_socket7-8(892.913mil,4864.173mil) on Multi-Layer And Pad R11_socket7-1(944.882mil,5236.221mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket8 Between Pad RX2_socket8-2(4763.779mil,5314.961mil) on Top Layer And Pad J1_socket8-1(4891.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket8 Between Pad J1_socket8-4(4291.338mil,4942.913mil) on Multi-Layer And Pad J1_socket8-2(4691.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket8-7(3691.338mil,4942.913mil) on Multi-Layer And Pad J1_socket8-3(4491.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket8-3(4491.338mil,4942.913mil) on Multi-Layer And Pad RX2_socket8-1(4763.779mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P2_socket8 Between Pad J1_socket8-4(4291.338mil,4942.913mil) on Multi-Layer And Pad R12_socket8-1(4370.079mil,5314.961mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket8 Between Pad RX1_socket8-2(3937.008mil,5314.961mil) on Top Layer And Pad J1_socket8-5(4091.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket8 Between Pad J1_socket8-8(3491.338mil,4942.913mil) on Multi-Layer And Pad J1_socket8-6(3891.338mil,4942.913mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad J1_socket8-7(3691.338mil,4942.913mil) on Multi-Layer And Pad RX1_socket8-1(3937.008mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_P1_socket8 Between Pad J1_socket8-8(3491.338mil,4942.913mil) on Multi-Layer And Pad R11_socket8-1(3543.307mil,5314.961mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket1_5 Between Pad R11_socket1-2(250mil,1022.047mil) on Top Layer And Pad R31_socket1-2(450mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket2_5 Between Pad R11_socket2-2(2273.228mil,972.047mil) on Top Layer And Pad R31_socket2-2(2470.079mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket3_5 Between Pad R11_socket3-2(4251.968mil,948.819mil) on Top Layer And Pad R31_socket3-2(4448.819mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket4_5 Between Pad R11_socket4-2(3385.827mil,3468.504mil) on Top Layer And Pad R31_socket4-2(3582.677mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket5_5 Between Pad R11_socket5-2(6062.992mil,3507.874mil) on Top Layer And Pad R31_socket5-2(6259.842mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket6_5 Between Pad R11_socket6-2(905.512mil,3328.74mil) on Top Layer And Pad R31_socket6-2(1102.362mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket7_5 Between Pad R11_socket7-2(944.882mil,5358.268mil) on Top Layer And Pad R31_socket7-2(1141.732mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB1_socket8_5 Between Pad R11_socket8-2(3543.307mil,5437.008mil) on Top Layer And Pad R31_socket8-2(3740.157mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket1_5 Between Pad R12_socket1-2(1050mil,1022.047mil) on Top Layer And Pad R32_socket1-2(1250mil,1022.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket2_5 Between Pad R12_socket2-2(3100mil,972.047mil) on Top Layer And Pad R32_socket2-2(3296.85mil,972.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket3_5 Between Pad R12_socket3-2(5078.74mil,948.819mil) on Top Layer And Pad R32_socket3-2(5275.591mil,948.819mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket4_5 Between Pad R12_socket4-2(4212.598mil,3468.504mil) on Top Layer And Pad R32_socket4-2(4409.449mil,3468.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket5_5 Between Pad R12_socket5-2(6889.764mil,3507.874mil) on Top Layer And Pad R32_socket5-2(7086.614mil,3507.874mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket6_5 Between Pad R12_socket6-2(1732.284mil,3328.74mil) on Top Layer And Pad R32_socket6-2(1929.134mil,3328.74mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket7_5 Between Pad R12_socket7-2(1771.653mil,5358.268mil) on Top Layer And Pad R32_socket7-2(1968.504mil,5358.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetB2_socket8_5 Between Pad R12_socket8-2(4370.079mil,5437.008mil) on Top Layer And Pad R32_socket8-2(4566.929mil,5437.008mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket1 Between Pad R31_socket1-1(450mil,900mil) on Top Layer And Pad RX1_socket1-2(650mil,900mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket2 Between Pad R31_socket2-1(2470.079mil,850mil) on Top Layer And Pad RX1_socket2-2(2666.929mil,850mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket3 Between Pad R31_socket3-1(4448.819mil,826.772mil) on Top Layer And Pad RX1_socket3-2(4645.669mil,826.772mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket4 Between Pad R31_socket4-1(3582.677mil,3346.457mil) on Top Layer And Pad RX1_socket4-2(3779.528mil,3346.457mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket5 Between Pad R31_socket5-1(6259.842mil,3385.827mil) on Top Layer And Pad RX1_socket5-2(6456.693mil,3385.827mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket6 Between Pad R31_socket6-1(1102.362mil,3206.693mil) on Top Layer And Pad RX1_socket6-2(1299.213mil,3206.693mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket7 Between Pad R31_socket7-1(1141.732mil,5236.221mil) on Top Layer And Pad RX1_socket7-2(1338.583mil,5236.221mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N1_socket8 Between Pad R31_socket8-1(3740.157mil,5314.961mil) on Top Layer And Pad RX1_socket8-2(3937.008mil,5314.961mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket1 Between Pad R32_socket1-1(1250mil,900mil) on Top Layer And Pad RX2_socket1-2(1450mil,900mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket2 Between Pad R32_socket2-1(3296.85mil,850mil) on Top Layer And Pad RX2_socket2-2(3493.701mil,850mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket3 Between Pad R32_socket3-1(5275.591mil,826.772mil) on Top Layer And Pad RX2_socket3-2(5472.441mil,826.772mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket4 Between Pad R32_socket4-1(4409.449mil,3346.457mil) on Top Layer And Pad RX2_socket4-2(4606.299mil,3346.457mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket5 Between Pad R32_socket5-1(7086.614mil,3385.827mil) on Top Layer And Pad RX2_socket5-2(7283.465mil,3385.827mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket6 Between Pad R32_socket6-1(1929.134mil,3206.693mil) on Top Layer And Pad RX2_socket6-2(2125.984mil,3206.693mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket7 Between Pad R32_socket7-1(1968.504mil,5236.221mil) on Top Layer And Pad RX2_socket7-2(2165.354mil,5236.221mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADC_N2_socket8 Between Pad R32_socket8-1(4566.929mil,5314.961mil) on Top Layer And Pad RX2_socket8-2(4763.779mil,5314.961mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net LOADCELL_N1_socket1 Between Pad RX1_socket1-1(650mil,1022.047mil) on Top Layer And Pad RX2_socket1-1(1450mil,1022.047mil) on Top Layer 
-Rule Violations :174
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=78.74mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.3mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (124.46mm,30.988mm) from Top Layer to Bottom Layer And Via (124.46mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (124.46mm,69.088mm) from Top Layer to Bottom Layer And Via (124.46mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (173.99mm,30.988mm) from Top Layer to Bottom Layer And Via (173.99mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (173.99mm,69.088mm) from Top Layer to Bottom Layer And Via (173.99mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (25.4mm,30.988mm) from Top Layer to Bottom Layer And Via (25.4mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (25.4mm,69.088mm) from Top Layer to Bottom Layer And Via (25.4mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (74.93mm,30.988mm) from Top Layer to Bottom Layer And Via (74.93mm,30.988mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.2mm) Between Via (74.93mm,69.088mm) from Top Layer to Bottom Layer And Via (74.93mm,69.088mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :8
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket1-1(487.402mil,1299.213mil) on Top Layer And Pad B1_socket1-2(450mil,1299.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket1-2(450mil,1299.213mil) on Top Layer And Pad B1_socket1-3(412.598mil,1299.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket2-1(2507.48mil,1275.197mil) on Top Layer And Pad B1_socket2-2(2470.079mil,1275.197mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket2-2(2470.079mil,1275.197mil) on Top Layer And Pad B1_socket2-3(2432.677mil,1275.197mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket3-1(4486.221mil,1251.968mil) on Top Layer And Pad B1_socket3-2(4448.819mil,1251.968mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket3-2(4448.819mil,1251.968mil) on Top Layer And Pad B1_socket3-3(4411.417mil,1251.968mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer And Pad B1_socket4-2(3582.677mil,3771.653mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket4-2(3582.677mil,3771.653mil) on Top Layer And Pad B1_socket4-3(3545.276mil,3771.653mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket5-1(6297.244mil,3811.024mil) on Top Layer And Pad B1_socket5-2(6259.842mil,3811.024mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket5-2(6259.842mil,3811.024mil) on Top Layer And Pad B1_socket5-3(6222.441mil,3811.024mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer And Pad B1_socket6-2(1102.362mil,3631.89mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket6-2(1102.362mil,3631.89mil) on Top Layer And Pad B1_socket6-3(1064.961mil,3631.89mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket7-1(1179.134mil,5661.417mil) on Top Layer And Pad B1_socket7-2(1141.732mil,5661.417mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket7-2(1141.732mil,5661.417mil) on Top Layer And Pad B1_socket7-3(1104.331mil,5661.417mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket8-1(3777.559mil,5740.157mil) on Top Layer And Pad B1_socket8-2(3740.157mil,5740.157mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B1_socket8-2(3740.157mil,5740.157mil) on Top Layer And Pad B1_socket8-3(3702.756mil,5740.157mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket1-1(1287.402mil,1299.213mil) on Top Layer And Pad B2_socket1-2(1250mil,1299.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket1-2(1250mil,1299.213mil) on Top Layer And Pad B2_socket1-3(1212.598mil,1299.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket2-1(3334.252mil,1275.197mil) on Top Layer And Pad B2_socket2-2(3296.85mil,1275.197mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket2-2(3296.85mil,1275.197mil) on Top Layer And Pad B2_socket2-3(3259.449mil,1275.197mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket3-1(5312.992mil,1251.968mil) on Top Layer And Pad B2_socket3-2(5275.591mil,1251.968mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket3-2(5275.591mil,1251.968mil) on Top Layer And Pad B2_socket3-3(5238.189mil,1251.968mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket4-1(4446.85mil,3771.653mil) on Top Layer And Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer And Pad B2_socket4-3(4372.047mil,3771.653mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket5-1(7124.016mil,3811.024mil) on Top Layer And Pad B2_socket5-2(7086.614mil,3811.024mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket5-2(7086.614mil,3811.024mil) on Top Layer And Pad B2_socket5-3(7049.213mil,3811.024mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket6-1(1966.535mil,3631.89mil) on Top Layer And Pad B2_socket6-2(1929.134mil,3631.89mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket6-2(1929.134mil,3631.89mil) on Top Layer And Pad B2_socket6-3(1891.732mil,3631.89mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket7-1(2005.906mil,5661.417mil) on Top Layer And Pad B2_socket7-2(1968.504mil,5661.417mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket7-2(1968.504mil,5661.417mil) on Top Layer And Pad B2_socket7-3(1931.102mil,5661.417mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket8-1(4604.331mil,5740.157mil) on Top Layer And Pad B2_socket8-2(4566.929mil,5740.157mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad B2_socket8-2(4566.929mil,5740.157mil) on Top Layer And Pad B2_socket8-3(4529.528mil,5740.157mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket1-1(21.27mm,35.54mm) on Top Layer And Pad B1_socket1-2(20.32mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket1-2(20.32mm,35.54mm) on Top Layer And Pad B1_socket1-3(19.37mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket2-1(70.8mm,35.54mm) on Top Layer And Pad B1_socket2-2(69.85mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket2-2(69.85mm,35.54mm) on Top Layer And Pad B1_socket2-3(68.9mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket3-1(21.27mm,73.64mm) on Top Layer And Pad B1_socket3-2(20.32mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket3-2(20.32mm,73.64mm) on Top Layer And Pad B1_socket3-3(19.37mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket4-1(70.8mm,73.64mm) on Top Layer And Pad B1_socket4-2(69.85mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket4-2(69.85mm,73.64mm) on Top Layer And Pad B1_socket4-3(68.9mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket5-1(120.33mm,73.64mm) on Top Layer And Pad B1_socket5-2(119.38mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket5-2(119.38mm,73.64mm) on Top Layer And Pad B1_socket5-3(118.43mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket6-1(169.86mm,73.64mm) on Top Layer And Pad B1_socket6-2(168.91mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket6-2(168.91mm,73.64mm) on Top Layer And Pad B1_socket6-3(167.96mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket7-1(120.33mm,35.54mm) on Top Layer And Pad B1_socket7-2(119.38mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket7-2(119.38mm,35.54mm) on Top Layer And Pad B1_socket7-3(118.43mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket8-1(169.86mm,35.54mm) on Top Layer And Pad B1_socket8-2(168.91mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B1_socket8-2(168.91mm,35.54mm) on Top Layer And Pad B1_socket8-3(167.96mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket1-1(41.59mm,35.54mm) on Top Layer And Pad B2_socket1-2(40.64mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket1-2(40.64mm,35.54mm) on Top Layer And Pad B2_socket1-3(39.69mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket2-1(91.12mm,35.54mm) on Top Layer And Pad B2_socket2-2(90.17mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket2-2(90.17mm,35.54mm) on Top Layer And Pad B2_socket2-3(89.22mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket3-1(41.59mm,73.64mm) on Top Layer And Pad B2_socket3-2(40.64mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket3-2(40.64mm,73.64mm) on Top Layer And Pad B2_socket3-3(39.69mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket4-1(91.12mm,73.64mm) on Top Layer And Pad B2_socket4-2(90.17mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket4-2(90.17mm,73.64mm) on Top Layer And Pad B2_socket4-3(89.22mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket5-1(140.65mm,73.64mm) on Top Layer And Pad B2_socket5-2(139.7mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket5-2(139.7mm,73.64mm) on Top Layer And Pad B2_socket5-3(138.75mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket6-1(190.18mm,73.64mm) on Top Layer And Pad B2_socket6-2(189.23mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket6-2(189.23mm,73.64mm) on Top Layer And Pad B2_socket6-3(188.28mm,73.64mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket7-1(140.65mm,35.54mm) on Top Layer And Pad B2_socket7-2(139.7mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket7-2(139.7mm,35.54mm) on Top Layer And Pad B2_socket7-3(138.75mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket8-1(190.18mm,35.54mm) on Top Layer And Pad B2_socket8-2(189.23mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad B2_socket8-2(189.23mm,35.54mm) on Top Layer And Pad B2_socket8-3(188.28mm,35.54mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
 Rule Violations :32
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket1-1(487.402mil,1299.213mil) on Top Layer And Track (392.913mil,1260.827mil)(507.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket1-1(487.402mil,1299.213mil) on Top Layer And Track (509.055mil,1274.606mil)(509.055mil,1323.819mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket1-2(450mil,1299.213mil) on Top Layer And Track (392.913mil,1260.827mil)(507.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket1-3(412.598mil,1299.213mil) on Top Layer And Track (392.913mil,1260.827mil)(507.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.452mil < 10mil) Between Pad B1_socket1-4(412.598mil,1200.787mil) on Top Layer And Text "R31_socket1" (401.748mil,1110.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.452mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket1-4(412.598mil,1200.787mil) on Top Layer And Track (392.913mil,1239.173mil)(507.087mil,1239.173mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.452mil < 10mil) Between Pad B1_socket1-5(487.402mil,1200.787mil) on Top Layer And Text "R31_socket1" (401.748mil,1110.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.452mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket1-5(487.402mil,1200.787mil) on Top Layer And Track (392.913mil,1239.173mil)(507.087mil,1239.173mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket2-1(2507.48mil,1275.197mil) on Top Layer And Track (2412.992mil,1236.811mil)(2527.165mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket2-1(2507.48mil,1275.197mil) on Top Layer And Track (2529.134mil,1250.591mil)(2529.134mil,1299.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket2-2(2470.079mil,1275.197mil) on Top Layer And Track (2412.992mil,1236.811mil)(2527.165mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket2-3(2432.677mil,1275.197mil) on Top Layer And Track (2412.992mil,1236.811mil)(2527.165mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket2-4(2432.677mil,1176.772mil) on Top Layer And Track (2412.992mil,1215.157mil)(2527.165mil,1215.157mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket2-5(2507.48mil,1176.772mil) on Top Layer And Track (2412.992mil,1215.157mil)(2527.165mil,1215.157mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket3-1(4486.221mil,1251.968mil) on Top Layer And Track (4391.732mil,1213.583mil)(4505.905mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket3-1(4486.221mil,1251.968mil) on Top Layer And Track (4507.874mil,1227.362mil)(4507.874mil,1276.575mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket3-2(4448.819mil,1251.968mil) on Top Layer And Track (4391.732mil,1213.583mil)(4505.905mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket3-3(4411.417mil,1251.968mil) on Top Layer And Track (4391.732mil,1213.583mil)(4505.905mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket3-4(4411.417mil,1153.543mil) on Top Layer And Track (4391.732mil,1191.929mil)(4505.905mil,1191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket3-5(4486.221mil,1153.543mil) on Top Layer And Track (4391.732mil,1191.929mil)(4505.905mil,1191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer And Track (3525.59mil,3733.268mil)(3639.764mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket4-1(3620.079mil,3771.653mil) on Top Layer And Track (3641.732mil,3747.047mil)(3641.732mil,3796.26mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket4-2(3582.677mil,3771.653mil) on Top Layer And Track (3525.59mil,3733.268mil)(3639.764mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket4-3(3545.276mil,3771.653mil) on Top Layer And Track (3525.59mil,3733.268mil)(3639.764mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket4-4(3545.276mil,3673.228mil) on Top Layer And Track (3525.59mil,3711.614mil)(3639.764mil,3711.614mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket4-5(3620.079mil,3673.228mil) on Top Layer And Track (3525.59mil,3711.614mil)(3639.764mil,3711.614mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket5-1(6297.244mil,3811.024mil) on Top Layer And Track (6202.756mil,3772.638mil)(6316.929mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket5-1(6297.244mil,3811.024mil) on Top Layer And Track (6318.898mil,3786.417mil)(6318.898mil,3835.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket5-2(6259.842mil,3811.024mil) on Top Layer And Track (6202.756mil,3772.638mil)(6316.929mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket5-3(6222.441mil,3811.024mil) on Top Layer And Track (6202.756mil,3772.638mil)(6316.929mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket5-4(6222.441mil,3712.598mil) on Top Layer And Track (6202.756mil,3750.984mil)(6316.929mil,3750.984mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket5-5(6297.244mil,3712.598mil) on Top Layer And Track (6202.756mil,3750.984mil)(6316.929mil,3750.984mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer And Track (1045.276mil,3593.504mil)(1159.449mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket6-1(1139.764mil,3631.89mil) on Top Layer And Track (1161.417mil,3607.283mil)(1161.417mil,3656.496mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket6-2(1102.362mil,3631.89mil) on Top Layer And Track (1045.276mil,3593.504mil)(1159.449mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket6-3(1064.961mil,3631.89mil) on Top Layer And Track (1045.276mil,3593.504mil)(1159.449mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket6-4(1064.961mil,3533.465mil) on Top Layer And Track (1045.276mil,3571.85mil)(1159.449mil,3571.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket6-5(1139.764mil,3533.465mil) on Top Layer And Track (1045.276mil,3571.85mil)(1159.449mil,3571.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket7-1(1179.134mil,5661.417mil) on Top Layer And Track (1084.646mil,5623.032mil)(1198.819mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket7-1(1179.134mil,5661.417mil) on Top Layer And Track (1200.787mil,5636.811mil)(1200.787mil,5686.024mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket7-2(1141.732mil,5661.417mil) on Top Layer And Track (1084.646mil,5623.032mil)(1198.819mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket7-3(1104.331mil,5661.417mil) on Top Layer And Track (1084.646mil,5623.032mil)(1198.819mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket7-4(1104.331mil,5562.992mil) on Top Layer And Track (1084.646mil,5601.378mil)(1198.819mil,5601.378mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket7-5(1179.134mil,5562.992mil) on Top Layer And Track (1084.646mil,5601.378mil)(1198.819mil,5601.378mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket8-1(3777.559mil,5740.157mil) on Top Layer And Track (3683.071mil,5701.772mil)(3797.244mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B1_socket8-1(3777.559mil,5740.157mil) on Top Layer And Track (3799.213mil,5715.551mil)(3799.213mil,5764.764mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket8-2(3740.157mil,5740.157mil) on Top Layer And Track (3683.071mil,5701.772mil)(3797.244mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket8-3(3702.756mil,5740.157mil) on Top Layer And Track (3683.071mil,5701.772mil)(3797.244mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket8-4(3702.756mil,5641.732mil) on Top Layer And Track (3683.071mil,5680.118mil)(3797.244mil,5680.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B1_socket8-5(3777.559mil,5641.732mil) on Top Layer And Track (3683.071mil,5680.118mil)(3797.244mil,5680.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket1-1(1287.402mil,1299.213mil) on Top Layer And Track (1192.913mil,1260.827mil)(1307.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket1-1(1287.402mil,1299.213mil) on Top Layer And Track (1309.055mil,1274.606mil)(1309.055mil,1323.819mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket1-2(1250mil,1299.213mil) on Top Layer And Track (1192.913mil,1260.827mil)(1307.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket1-3(1212.598mil,1299.213mil) on Top Layer And Track (1192.913mil,1260.827mil)(1307.087mil,1260.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.452mil < 10mil) Between Pad B2_socket1-4(1212.598mil,1200.787mil) on Top Layer And Text "R32_socket1" (1201.748mil,1110.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.452mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.721mil < 10mil) Between Pad B2_socket1-4(1212.598mil,1200.787mil) on Top Layer And Text "RX1_socket1" (601.748mil,1110.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.72mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket1-4(1212.598mil,1200.787mil) on Top Layer And Track (1192.913mil,1239.173mil)(1307.087mil,1239.173mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.452mil < 10mil) Between Pad B2_socket1-5(1287.402mil,1200.787mil) on Top Layer And Text "R32_socket1" (1201.748mil,1110.748mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.452mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket1-5(1287.402mil,1200.787mil) on Top Layer And Track (1192.913mil,1239.173mil)(1307.087mil,1239.173mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket2-1(3334.252mil,1275.197mil) on Top Layer And Track (3239.764mil,1236.811mil)(3353.937mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket2-1(3334.252mil,1275.197mil) on Top Layer And Track (3355.905mil,1250.591mil)(3355.905mil,1299.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket2-2(3296.85mil,1275.197mil) on Top Layer And Track (3239.764mil,1236.811mil)(3353.937mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket2-3(3259.449mil,1275.197mil) on Top Layer And Track (3239.764mil,1236.811mil)(3353.937mil,1236.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket2-4(3259.449mil,1176.772mil) on Top Layer And Track (3239.764mil,1215.157mil)(3353.937mil,1215.157mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket2-5(3334.252mil,1176.772mil) on Top Layer And Track (3239.764mil,1215.157mil)(3353.937mil,1215.157mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket3-1(5312.992mil,1251.968mil) on Top Layer And Track (5218.504mil,1213.583mil)(5332.677mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket3-1(5312.992mil,1251.968mil) on Top Layer And Track (5334.646mil,1227.362mil)(5334.646mil,1276.575mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket3-2(5275.591mil,1251.968mil) on Top Layer And Track (5218.504mil,1213.583mil)(5332.677mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket3-3(5238.189mil,1251.968mil) on Top Layer And Track (5218.504mil,1213.583mil)(5332.677mil,1213.583mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket3-4(5238.189mil,1153.543mil) on Top Layer And Track (5218.504mil,1191.929mil)(5332.677mil,1191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket3-5(5312.992mil,1153.543mil) on Top Layer And Track (5218.504mil,1191.929mil)(5332.677mil,1191.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket4-1(4446.85mil,3771.653mil) on Top Layer And Track (4352.362mil,3733.268mil)(4466.535mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket4-1(4446.85mil,3771.653mil) on Top Layer And Track (4468.504mil,3747.047mil)(4468.504mil,3796.26mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket4-2(4409.449mil,3771.653mil) on Top Layer And Track (4352.362mil,3733.268mil)(4466.535mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket4-3(4372.047mil,3771.653mil) on Top Layer And Track (4352.362mil,3733.268mil)(4466.535mil,3733.268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket4-4(4372.047mil,3673.228mil) on Top Layer And Track (4352.362mil,3711.614mil)(4466.535mil,3711.614mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket4-5(4446.85mil,3673.228mil) on Top Layer And Track (4352.362mil,3711.614mil)(4466.535mil,3711.614mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket5-1(7124.016mil,3811.024mil) on Top Layer And Track (7029.528mil,3772.638mil)(7143.701mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket5-1(7124.016mil,3811.024mil) on Top Layer And Track (7145.669mil,3786.417mil)(7145.669mil,3835.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket5-2(7086.614mil,3811.024mil) on Top Layer And Track (7029.528mil,3772.638mil)(7143.701mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket5-3(7049.213mil,3811.024mil) on Top Layer And Track (7029.528mil,3772.638mil)(7143.701mil,3772.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket5-4(7049.213mil,3712.598mil) on Top Layer And Track (7029.528mil,3750.984mil)(7143.701mil,3750.984mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket5-5(7124.016mil,3712.598mil) on Top Layer And Track (7029.528mil,3750.984mil)(7143.701mil,3750.984mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket6-1(1966.535mil,3631.89mil) on Top Layer And Track (1872.047mil,3593.504mil)(1986.22mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket6-1(1966.535mil,3631.89mil) on Top Layer And Track (1988.189mil,3607.283mil)(1988.189mil,3656.496mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket6-2(1929.134mil,3631.89mil) on Top Layer And Track (1872.047mil,3593.504mil)(1986.22mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket6-3(1891.732mil,3631.89mil) on Top Layer And Track (1872.047mil,3593.504mil)(1986.22mil,3593.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket6-4(1891.732mil,3533.465mil) on Top Layer And Track (1872.047mil,3571.85mil)(1986.22mil,3571.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket6-5(1966.535mil,3533.465mil) on Top Layer And Track (1872.047mil,3571.85mil)(1986.22mil,3571.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket7-1(2005.906mil,5661.417mil) on Top Layer And Track (1911.417mil,5623.032mil)(2025.591mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket7-1(2005.906mil,5661.417mil) on Top Layer And Track (2027.559mil,5636.811mil)(2027.559mil,5686.024mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket7-2(1968.504mil,5661.417mil) on Top Layer And Track (1911.417mil,5623.032mil)(2025.591mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket7-3(1931.102mil,5661.417mil) on Top Layer And Track (1911.417mil,5623.032mil)(2025.591mil,5623.032mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket7-4(1931.102mil,5562.992mil) on Top Layer And Track (1911.417mil,5601.378mil)(2025.591mil,5601.378mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket7-5(2005.906mil,5562.992mil) on Top Layer And Track (1911.417mil,5601.378mil)(2025.591mil,5601.378mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket8-1(4604.331mil,5740.157mil) on Top Layer And Track (4509.842mil,5701.772mil)(4624.016mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad B2_socket8-1(4604.331mil,5740.157mil) on Top Layer And Track (4625.984mil,5715.551mil)(4625.984mil,5764.764mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket8-2(4566.929mil,5740.157mil) on Top Layer And Track (4509.842mil,5701.772mil)(4624.016mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket8-3(4529.528mil,5740.157mil) on Top Layer And Track (4509.842mil,5701.772mil)(4624.016mil,5701.772mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket8-4(4529.528mil,5641.732mil) on Top Layer And Track (4509.842mil,5680.118mil)(4624.016mil,5680.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad B2_socket8-5(4604.331mil,5641.732mil) on Top Layer And Track (4509.842mil,5680.118mil)(4624.016mil,5680.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
-Rule Violations :101
-
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket1" (201.748mil,1110.748mil) on Top Overlay And Text "R31_socket1" (401.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket1" (201.748mil,1110.748mil) on Top Overlay And Text "RX1_socket1" (601.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket2" (2224.748mil,1060.748mil) on Top Overlay And Text "R31_socket2" (2421.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket2" (2224.748mil,1060.748mil) on Top Overlay And Text "RX1_socket2" (2618.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket3" (4203.748mil,1036.748mil) on Top Overlay And Text "R31_socket3" (4400.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket3" (4203.748mil,1036.748mil) on Top Overlay And Text "RX1_socket3" (4597.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket4" (3337.748mil,3556.748mil) on Top Overlay And Text "R31_socket4" (3534.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket4" (3337.748mil,3556.748mil) on Top Overlay And Text "RX1_socket4" (3731.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket5" (6014.748mil,3595.748mil) on Top Overlay And Text "R31_socket5" (6211.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket5" (6014.748mil,3595.748mil) on Top Overlay And Text "RX1_socket5" (6408.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket6" (857.748mil,3416.748mil) on Top Overlay And Text "R31_socket6" (1054.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket6" (857.748mil,3416.748mil) on Top Overlay And Text "RX1_socket6" (1250.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket7" (896.748mil,5446.748mil) on Top Overlay And Text "R31_socket7" (1093.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket7" (896.748mil,5446.748mil) on Top Overlay And Text "RX1_socket7" (1290.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket8" (3494.748mil,5524.748mil) on Top Overlay And Text "R31_socket8" (3691.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R11_socket8" (3494.748mil,5524.748mil) on Top Overlay And Text "RX1_socket8" (3888.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket1" (1001.748mil,1110.748mil) on Top Overlay And Text "R31_socket1" (401.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket1" (1001.748mil,1110.748mil) on Top Overlay And Text "R32_socket1" (1201.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket1" (1001.748mil,1110.748mil) on Top Overlay And Text "RX1_socket1" (601.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket1" (1001.748mil,1110.748mil) on Top Overlay And Text "RX2_socket1" (1401.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket2" (3051.748mil,1060.748mil) on Top Overlay And Text "R31_socket2" (2421.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket2" (3051.748mil,1060.748mil) on Top Overlay And Text "R32_socket2" (3248.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket2" (3051.748mil,1060.748mil) on Top Overlay And Text "RX1_socket2" (2618.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket2" (3051.748mil,1060.748mil) on Top Overlay And Text "RX2_socket2" (3445.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket3" (5030.748mil,1036.748mil) on Top Overlay And Text "R31_socket3" (4400.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket3" (5030.748mil,1036.748mil) on Top Overlay And Text "R32_socket3" (5227.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket3" (5030.748mil,1036.748mil) on Top Overlay And Text "RX1_socket3" (4597.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket3" (5030.748mil,1036.748mil) on Top Overlay And Text "RX2_socket3" (5424.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket4" (4164.748mil,3556.748mil) on Top Overlay And Text "R31_socket4" (3534.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket4" (4164.748mil,3556.748mil) on Top Overlay And Text "R32_socket4" (4361.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket4" (4164.748mil,3556.748mil) on Top Overlay And Text "RX1_socket4" (3731.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket4" (4164.748mil,3556.748mil) on Top Overlay And Text "RX2_socket4" (4557.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket5" (6841.748mil,3595.748mil) on Top Overlay And Text "R31_socket5" (6211.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket5" (6841.748mil,3595.748mil) on Top Overlay And Text "R32_socket5" (7038.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket5" (6841.748mil,3595.748mil) on Top Overlay And Text "RX1_socket5" (6408.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket5" (6841.748mil,3595.748mil) on Top Overlay And Text "RX2_socket5" (7235.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket6" (1683.748mil,3416.748mil) on Top Overlay And Text "R31_socket6" (1054.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket6" (1683.748mil,3416.748mil) on Top Overlay And Text "R32_socket6" (1880.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket6" (1683.748mil,3416.748mil) on Top Overlay And Text "RX1_socket6" (1250.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket6" (1683.748mil,3416.748mil) on Top Overlay And Text "RX2_socket6" (2077.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket7" (1723.748mil,5446.748mil) on Top Overlay And Text "R31_socket7" (1093.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket7" (1723.748mil,5446.748mil) on Top Overlay And Text "R32_socket7" (1920.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket7" (1723.748mil,5446.748mil) on Top Overlay And Text "RX1_socket7" (1290.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket7" (1723.748mil,5446.748mil) on Top Overlay And Text "RX2_socket7" (2117.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R12_socket8" (4321.748mil,5524.748mil) on Top Overlay And Text "R31_socket8" (3691.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket8" (4321.748mil,5524.748mil) on Top Overlay And Text "R32_socket8" (4518.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket8" (4321.748mil,5524.748mil) on Top Overlay And Text "RX1_socket8" (3888.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R12_socket8" (4321.748mil,5524.748mil) on Top Overlay And Text "RX2_socket8" (4715.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket1" (401.748mil,1110.748mil) on Top Overlay And Text "RX1_socket1" (601.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket2" (2421.748mil,1060.748mil) on Top Overlay And Text "RX1_socket2" (2618.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket3" (4400.748mil,1036.748mil) on Top Overlay And Text "RX1_socket3" (4597.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket4" (3534.748mil,3556.748mil) on Top Overlay And Text "RX1_socket4" (3731.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket5" (6211.748mil,3595.748mil) on Top Overlay And Text "RX1_socket5" (6408.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket6" (1054.748mil,3416.748mil) on Top Overlay And Text "RX1_socket6" (1250.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket7" (1093.748mil,5446.748mil) on Top Overlay And Text "RX1_socket7" (1290.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R31_socket8" (3691.748mil,5524.748mil) on Top Overlay And Text "RX1_socket8" (3888.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket1" (1201.748mil,1110.748mil) on Top Overlay And Text "RX1_socket1" (601.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket1" (1201.748mil,1110.748mil) on Top Overlay And Text "RX2_socket1" (1401.748mil,1110.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket2" (3248.748mil,1060.748mil) on Top Overlay And Text "RX1_socket2" (2618.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket2" (3248.748mil,1060.748mil) on Top Overlay And Text "RX2_socket2" (3445.748mil,1060.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket3" (5227.748mil,1036.748mil) on Top Overlay And Text "RX1_socket3" (4597.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket3" (5227.748mil,1036.748mil) on Top Overlay And Text "RX2_socket3" (5424.748mil,1036.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket4" (4361.748mil,3556.748mil) on Top Overlay And Text "RX1_socket4" (3731.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket4" (4361.748mil,3556.748mil) on Top Overlay And Text "RX2_socket4" (4557.748mil,3556.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket5" (7038.748mil,3595.748mil) on Top Overlay And Text "RX1_socket5" (6408.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket5" (7038.748mil,3595.748mil) on Top Overlay And Text "RX2_socket5" (7235.748mil,3595.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket6" (1880.748mil,3416.748mil) on Top Overlay And Text "RX1_socket6" (1250.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket6" (1880.748mil,3416.748mil) on Top Overlay And Text "RX2_socket6" (2077.748mil,3416.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket7" (1920.748mil,5446.748mil) on Top Overlay And Text "RX1_socket7" (1290.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket7" (1920.748mil,5446.748mil) on Top Overlay And Text "RX2_socket7" (2117.748mil,5446.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.2mil < 10mil) Between Text "R32_socket8" (4518.748mil,5524.748mil) on Top Overlay And Text "RX1_socket8" (3888.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0.2mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R32_socket8" (4518.748mil,5524.748mil) on Top Overlay And Text "RX2_socket8" (4715.748mil,5524.748mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :72
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Room socket7 (Bounding Region = (1692.913mil, 5612.205mil, 3503.937mil, 6714.567mil) (InComponentClass('socket7'))
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Room socket5 (Bounding Region = (6811.024mil, 3761.811mil, 8622.047mil, 4864.173mil) (InComponentClass('socket5'))
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room socket1 (Bounding Region = (1034.252mil, 1234.252mil, 2884.252mil, 2378.346mil) (InComponentClass('socket1'))
-   Violation between Room Definition: Between Room socket1 (Bounding Region = (1034.252mil, 1234.252mil, 2884.252mil, 2378.346mil) (InComponentClass('socket1')) And SIP Component J1_socket1-1755794 (1650mil,500mil) on Top Layer 
-Rule Violations :1
-
-Processing Rule : Room socket8 (Bounding Region = (4291.338mil, 5690.945mil, 6102.362mil, 6793.307mil) (InComponentClass('socket8'))
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room socket4 (Bounding Region = (4133.858mil, 3722.441mil, 5944.882mil, 4824.803mil) (InComponentClass('socket4'))
+Processing Rule : Room socket6 (Bounding Region = (179.94mm, 65.64mm, 226.93mm, 101.2mm) (InComponentClass('socket6'))
 Rule Violations :0
 
-Processing Rule : Room socket2 (Bounding Region = (3021.26mil, 1225.984mil, 4832.283mil, 2328.346mil) (InComponentClass('socket2'))
-   Violation between Room Definition: Between Room socket2 (Bounding Region = (3021.26mil, 1225.984mil, 4832.283mil, 2328.346mil) (InComponentClass('socket2')) And SIP Component J1_socket2-1755794 (3621.26mil,477.953mil) on Top Layer 
-Rule Violations :1
-
-Processing Rule : Room socket6 (Bounding Region = (1653.543mil, 3582.677mil, 3464.567mil, 4685.039mil) (InComponentClass('socket6'))
+Processing Rule : Room socket2 (Bounding Region = (80.88mm, 27.54mm, 127.87mm, 63.1mm) (InComponentClass('socket2'))
 Rule Violations :0
 
-Processing Rule : Room socket3 (Bounding Region = (5000mil, 1202.756mil, 6811.024mil, 2305.118mil) (InComponentClass('socket3'))
+Processing Rule : Room socket4 (Bounding Region = (80.88mm, 65.64mm, 127.87mm, 101.2mm) (InComponentClass('socket4'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Room socket3 (Bounding Region = (31.35mm, 65.64mm, 78.34mm, 101.2mm) (InComponentClass('socket3'))
+Rule Violations :0
+
+Processing Rule : Room socket7 (Bounding Region = (130.41mm, 27.54mm, 177.4mm, 63.1mm) (InComponentClass('socket7'))
+Rule Violations :0
+
+Processing Rule : Room socket5 (Bounding Region = (130.41mm, 65.64mm, 177.4mm, 101.2mm) (InComponentClass('socket5'))
+Rule Violations :0
+
+Processing Rule : Room socket8 (Bounding Region = (179.94mm, 27.54mm, 226.93mm, 63.1mm) (InComponentClass('socket8'))
+Rule Violations :0
+
+Processing Rule : Room socket1 (Bounding Region = (31.35mm, 27.54mm, 78.34mm, 63.1mm) (InComponentClass('socket1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 381
+Violations Detected : 40
 Waived Violations : 0
 Time Elapsed        : 00:00:00

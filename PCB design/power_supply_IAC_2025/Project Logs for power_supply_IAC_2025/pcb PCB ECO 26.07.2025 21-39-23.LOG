@@ -1,0 +1,138 @@
+Change Component Designator: OldDesignator=B1_socket1 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket2 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket3 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket4 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket5 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket6 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket7 NewDesignator=B1
+Change Component Designator: OldDesignator=B1_socket8 NewDesignator=B1
+Change Component Designator: OldDesignator=B2_socket1 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket2 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket3 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket4 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket5 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket6 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket7 NewDesignator=B2
+Change Component Designator: OldDesignator=B2_socket8 NewDesignator=B2
+Change Component Designator: OldDesignator=C1_socket1 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket2 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket3 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket4 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket5 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket6 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket7 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_socket8 NewDesignator=C1
+Change Component Designator: OldDesignator=C2_socket1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket2 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket3 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket4 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket5 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket6 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket7 NewDesignator=C2
+Change Component Designator: OldDesignator=C2_socket8 NewDesignator=C2
+Change Component Designator: OldDesignator=J1_socket1 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket2 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket3 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket4 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket5 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket6 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket7 NewDesignator=J1
+Change Component Designator: OldDesignator=J1_socket8 NewDesignator=J1
+Change Component Designator: OldDesignator=R11_socket1 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket2 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket3 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket4 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket5 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket6 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket7 NewDesignator=R11
+Change Component Designator: OldDesignator=R11_socket8 NewDesignator=R11
+Change Component Designator: OldDesignator=R12_socket1 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket2 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket3 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket4 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket5 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket6 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket7 NewDesignator=R12
+Change Component Designator: OldDesignator=R12_socket8 NewDesignator=R12
+Change Component Designator: OldDesignator=R31_socket1 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket2 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket3 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket4 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket5 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket6 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket7 NewDesignator=R31
+Change Component Designator: OldDesignator=R31_socket8 NewDesignator=R31
+Change Component Designator: OldDesignator=R32_socket1 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket2 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket3 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket4 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket5 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket6 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket7 NewDesignator=R32
+Change Component Designator: OldDesignator=R32_socket8 NewDesignator=R32
+Change Component Designator: OldDesignator=RX1_socket1 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket2 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket3 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket4 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket5 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket6 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket7 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX1_socket8 NewDesignator=RX1
+Change Component Designator: OldDesignator=RX2_socket1 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket2 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket3 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket4 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket5 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket6 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket7 NewDesignator=RX2
+Change Component Designator: OldDesignator=RX2_socket8 NewDesignator=RX2
+Change Net Name : Old Net Name=ADC_N1_socket1 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket2 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket3 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket4 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket5 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket6 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket7 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N1_socket8 New Net Name=ADC_N1
+Change Net Name : Old Net Name=ADC_N2_socket1 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket2 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket3 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket4 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket5 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket6 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket7 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_N2_socket8 New Net Name=ADC_N2
+Change Net Name : Old Net Name=ADC_P1_socket1 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket2 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket3 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket4 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket5 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket6 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket7 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P1_socket8 New Net Name=ADC_P1
+Change Net Name : Old Net Name=ADC_P2_socket1 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket2 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket3 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket4 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket5 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket6 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket7 New Net Name=ADC_P2
+Change Net Name : Old Net Name=ADC_P2_socket8 New Net Name=ADC_P2
+Change Net Name : Old Net Name=GND New Net Name=LOADCELL_N1
+Change Net Name : Old Net Name=NetB1_socket1_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket2_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket3_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket4_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket5_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket6_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket7_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB1_socket8_5 New Net Name=NetB1_5
+Change Net Name : Old Net Name=NetB2_socket1_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket2_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket3_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket4_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket5_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket6_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket7_5 New Net Name=NetB2_5
+Change Net Name : Old Net Name=NetB2_socket8_5 New Net Name=NetB2_5
+Added Rule: Name=Schematic Supply Nets

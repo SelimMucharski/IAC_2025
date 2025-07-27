@@ -1,0 +1,10 @@
+Added Component: Designator=RX1_socket1(RESC1206(3216)_M)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LOADCELL_N1_socket1 Pin=RX1_socket1-1
+Added Pin To Net: NetName=ADC_N1_socket1 Pin=RX1_socket1-2
+Added Member To Class: ClassName=socket1 Member=Component RX1_socket1 (RX1) 20R 1% 1206(3216)

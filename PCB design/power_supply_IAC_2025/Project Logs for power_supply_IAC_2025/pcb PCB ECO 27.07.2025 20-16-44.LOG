@@ -1,0 +1,192 @@
+Change Component Footprint: Designator=R11_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R11_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R12_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R31_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=R32_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX1_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket1 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket2 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket3 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket4 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket5 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket6 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket7 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Footprint: Designator=RX2_socket8 Old Footprint=RESC1206(3216)_M New Footprint=AR06
+Change Component Comment : Designator=RX1_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX1_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=RX2_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV4R70
+Change Component Comment : Designator=R11_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R11_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R12_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R31_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket1 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket2 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket3 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket4 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket5 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket6 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket7 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Component Comment : Designator=R32_socket8 Old Comment=20R 1% 1206(3216) New Comment=AR06BTCV1000
+Change Managed Component Library Link : Designator=R11_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R11_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R12_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R31_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=R32_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX1_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change Managed Component Library Link : Designator=RX2_socket8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E12D37E0-40AB-4E11-90C6-C621E51976B2 New ItemGUID= Old RevisionGUID=97E2FE21-D8BC-47F5-B7F8-BE814602FD9F New RevisionGUID=
+Change component parameters: Designator = "R11_socket1" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\ICLLHSCW" ("\1LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket2" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\ICLLHSCW" ("\2LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket3" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\ICLLHSCW" ("\3LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket4" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\ICLLHSCW" ("\4LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket5" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\ICLLHSCW" ("\5LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket6" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\ICLLHSCW" ("\6LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket7" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\ICLLHSCW" ("\7LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R11_socket8" ("R11"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\ICLLHSCW" ("\8LXEGQYYY\ICLLHSCW")
+Change component parameters: Designator = "R12_socket1" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\ITONCQYC" ("\1LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket2" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\ITONCQYC" ("\2LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket3" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\ITONCQYC" ("\3LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket4" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\ITONCQYC" ("\4LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket5" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\ITONCQYC" ("\5LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket6" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\ITONCQYC" ("\6LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket7" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\ITONCQYC" ("\7LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R12_socket8" ("R12"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\ITONCQYC" ("\8LXEGQYYY\ITONCQYC")
+Change component parameters: Designator = "R31_socket1" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\OJLOOPTO" ("\1LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket2" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\OJLOOPTO" ("\2LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket3" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\OJLOOPTO" ("\3LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket4" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\OJLOOPTO" ("\4LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket5" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\OJLOOPTO" ("\5LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket6" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\OJLOOPTO" ("\6LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket7" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\OJLOOPTO" ("\7LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R31_socket8" ("R31"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\OJLOOPTO" ("\8LXEGQYYY\OJLOOPTO")
+Change component parameters: Designator = "R32_socket1" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\BPWWRUBU" ("\1LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket2" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\BPWWRUBU" ("\2LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket3" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\BPWWRUBU" ("\3LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket4" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\BPWWRUBU" ("\4LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket5" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\BPWWRUBU" ("\5LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket6" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\BPWWRUBU" ("\6LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket7" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\BPWWRUBU" ("\7LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "R32_socket8" ("R32"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\BPWWRUBU" ("\8LXEGQYYY\BPWWRUBU")
+Change component parameters: Designator = "RX1_socket1" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\UEQHLHJR" ("\1LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket2" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\UEQHLHJR" ("\2LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket3" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\UEQHLHJR" ("\3LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket4" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\UEQHLHJR" ("\4LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket5" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\UEQHLHJR" ("\5LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket6" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\UEQHLHJR" ("\6LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket7" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\UEQHLHJR" ("\7LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX1_socket8" ("RX1"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\UEQHLHJR" ("\8LXEGQYYY\UEQHLHJR")
+Change component parameters: Designator = "RX2_socket1" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\1LXEGQYYY\XCQJJFUT" ("\1LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket2" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\2LXEGQYYY\XCQJJFUT" ("\2LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket3" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\3LXEGQYYY\XCQJJFUT" ("\3LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket4" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\4LXEGQYYY\XCQJJFUT" ("\4LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket5" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\5LXEGQYYY\XCQJJFUT" ("\5LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket6" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\6LXEGQYYY\XCQJJFUT" ("\6LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket7" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\7LXEGQYYY\XCQJJFUT" ("\7LXEGQYYY\XCQJJFUT")
+Change component parameters: Designator = "RX2_socket8" ("RX2"); Footprint = "RESC1206(3216)_M"; UniqueID = "\8LXEGQYYY\XCQJJFUT" ("\8LXEGQYYY\XCQJJFUT")
