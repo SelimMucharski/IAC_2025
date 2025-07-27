@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\selim\IAC_2025\PCB design\power_supply_IAC_2025\pcb.PcbDoc
 Date     : 27.07.2025
-Time     : 21:29:56
+Time     : 22:58:57
 
-Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -46,30 +46,6 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-Rule Violations :0
-
-Processing Rule : Room socket7 (Bounding Region = (130.41mm, 65.64mm, 177.4mm, 101.2mm) (InComponentClass('socket7'))
-Rule Violations :0
-
-Processing Rule : Room socket3 (Bounding Region = (130.41mm, 27.54mm, 177.4mm, 63.1mm) (InComponentClass('socket3'))
-Rule Violations :0
-
-Processing Rule : Room socket6 (Bounding Region = (80.88mm, 65.64mm, 127.87mm, 101.2mm) (InComponentClass('socket6'))
-Rule Violations :0
-
-Processing Rule : Room socket2 (Bounding Region = (80.88mm, 27.54mm, 127.87mm, 63.1mm) (InComponentClass('socket2'))
-Rule Violations :0
-
-Processing Rule : Room socket4 (Bounding Region = (179.94mm, 27.54mm, 226.93mm, 63.1mm) (InComponentClass('socket4'))
-Rule Violations :0
-
-Processing Rule : Room socket1 (Bounding Region = (31.35mm, 27.54mm, 78.34mm, 63.1mm) (InComponentClass('socket1'))
-Rule Violations :0
-
-Processing Rule : Room socket8 (Bounding Region = (179.94mm, 65.64mm, 226.93mm, 101.2mm) (InComponentClass('socket8'))
-Rule Violations :0
-
-Processing Rule : Room socket5 (Bounding Region = (31.35mm, 65.64mm, 78.34mm, 101.2mm) (InComponentClass('socket5'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
