@@ -1,0 +1,38 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [power_supply_IAC_2025.PrjPcb]
+   Generated File[pcb_Copper_Signal_Top.gbr]
+   Generated File[pcb_Copper_Signal_Bot.gbr]
+   Generated File[pcb_Pads_Bot.gbr]
+   Generated File[pcb_Pads_Top.gbr]
+   Generated File[pcb_Legend_Top.gbr]
+   Generated File[pcb_Legend_Bot.gbr]
+   Generated File[pcb_Soldermask_Top.gbr]
+   Generated File[pcb_Soldermask_Bot.gbr]
+   Generated File[pcb_Paste_Top.gbr]
+   Generated File[pcb_Paste_Bot.gbr]
+   Generated File[pcb_Keep-out.gbr]
+   Generated File[pcb_Mechanical_1.gbr]
+   Generated File[pcb_Top_Courtyard.gbr]
+   Generated File[pcb_Bottom_Assembly.gbr]
+   Generated File[pcb_Top_Assembly.gbr]
+   Generated File[pcb_Top_3D_Body.gbr]
+   Generated File[pcb_Mechanical_15.gbr]
+   Generated File[pcb_Top_Component_Center.gbr]
+   Generated File[pcb_Mechanical_20.gbr]
+   Generated File[pcb_Bottom_Courtyard.gbr]
+   Generated File[pcb_Bottom_3D_Body.gbr]
+   Generated File[pcb_Bottom_Component_Center.gbr]
+   Generated File[pcb_Profile.gbr]
+   Generated File[pcb_NPTH_Drill.gbr]
+   Generated File[pcb_PTH_Drill.gbr]
+   Generated File[pcb_Drawing_1.gbr]
+   Generated File[pcb_Drillmap_1.gbr]
+   Generated File[pcb.EXTREP]
+   Generated File[pcb.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 21:39:50 On 27.07.2025
