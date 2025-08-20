@@ -17,7 +17,7 @@ try:
         date = datetime.datetime.now()
 
         channelList = [ch for ch in range(5)]
-        ADC_Value = module.ADS1263_GetAll()    # get ADC1 value
+        ADC_Value = module.ADS1263_GetAll(channelList)    # get ADC1 value
 
         Voltage_Readings = {'time_stamp': date.isoformat()}
 
