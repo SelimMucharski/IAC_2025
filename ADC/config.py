@@ -10,22 +10,22 @@ CS_PIN      = 22
 DRDY_PIN    = 17
 
 
-def digital_write(self, pin, value):
+def digital_write(pin, value):
     GPIO.output(pin, value)
 
-def digital_read(self, pin):
+def digital_read(pin):
     return GPIO.input(pin)
 
-def delay_ms(self, delaytime):
+def delay_ms(delaytime):
     time.sleep(delaytime / 1000.0)
 
-def spi_writebyte(self, data):
+def spi_writebyte(data):
     SPI.writebytes(data)
 
-def spi_readbytes(self, reg):
+def spi_readbytes(reg):
     return SPI.readbytes(reg)
 
-def module_init(self):
+def module_init():
     GPIO.setmode(GPIO.BCM)
     GPIO.setwarnings(False)
     GPIO.setup(RST_PIN, GPIO.OUT)
@@ -36,7 +36,7 @@ def module_init(self):
     SPI.mode = 0b01
     return 0
 
-def module_exit(self):
+def module_exit():
     SPI.close()
     GPIO.output(RST_PIN, 0)
     GPIO.output(CS_PIN, 0)
