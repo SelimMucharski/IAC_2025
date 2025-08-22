@@ -218,7 +218,7 @@ class ADS1263:
         else:
             print("REG_MODE2 unsuccess")
 
-        REFMUX = 0x24   # 0x00:+-2.5V as REF, 0x24:VDD,VSS as REF
+        REFMUX = 0x00   # 0x00:+-2.5V as REF, 0x24:VDD,VSS as REF
         self.ADS1263_WriteReg(ADS1263_REG['REG_REFMUX'], REFMUX)
         if(self.ADS1263_ReadData(ADS1263_REG['REG_REFMUX'])[0] == REFMUX):
             print("REG_REFMUX success")
